@@ -1,0 +1,1001 @@
+Report_ID,Incident_Type,Description,Risk_Level,Status,Location,Reported_By
+SAFE-0001,Mask Missing,Employee entered a restricted zone without authorization.,Low,Resolved,Factory Floor,Christian Mercado
+SAFE-0002,Helmet Missing,Protective gloves were not used during equipment handling.,Moderate,Open,Assembly Line,Kevin Brooks
+SAFE-0003,Mask Missing,Worker observed without proper PPE near the assembly section.,Low,In Progress,Loading Dock,Amanda Cortez
+SAFE-0004,Emergency Alarm,Machine produced abnormal sounds during operation.,Moderate,Open,Storage Area,Nicole Dyer
+SAFE-0005,Helmet Missing,Safety helmet violation identified in construction area.,Low,Open,Loading Dock,Donald Ramirez
+SAFE-0006,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Moderate,Resolved,Construction Site,Colleen Gomez
+SAFE-0007,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,Low,Resolved,Construction Site,Lindsay Nelson
+SAFE-0008,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Warehouse,Bryan Jimenez
+SAFE-0009,Emergency Alarm,Emergency alarm triggered in the production area.,High,Open,Warehouse,Scott Garcia
+SAFE-0010,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Moderate,Resolved,Loading Dock,Heather Howard
+SAFE-0011,Chemical Spill,Machine produced abnormal sounds during operation.,Low,Resolved,Warehouse,Tiffany Barron
+SAFE-0012,Mask Missing,Protective gloves were not used during equipment handling.,High,Open,Factory Floor,Stephen Thomas
+SAFE-0013,Emergency Alarm,Protective gloves were not used during equipment handling.,Moderate,Resolved,Assembly Line,Robert Larsen
+SAFE-0014,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Warehouse,Kyle Liu
+SAFE-0015,Helmet Missing,Safety helmet violation identified in construction area.,Moderate,Resolved,Construction Site,Robin Singh
+SAFE-0016,Worker Fall,Protective gloves were not used during equipment handling.,High,Resolved,Loading Dock,Courtney Richardson
+SAFE-0017,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Low,Open,Construction Site,Kevin Campbell
+SAFE-0018,Emergency Alarm,Safety helmet violation identified in construction area.,Moderate,In Progress,Warehouse,Gregory Perkins
+SAFE-0019,Mask Missing,Safety helmet violation identified in construction area.,Moderate,Resolved,Storage Area,Lisa Gomez
+SAFE-0020,Electrical Hazard,Protective gloves were not used during equipment handling.,Low,Open,Construction Site,Clinton Price
+SAFE-0021,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Storage Area,Madison Keller
+SAFE-0022,Worker Fall,Worker observed without proper PPE near the assembly section.,Low,In Progress,Storage Area,Nancy Schroeder
+SAFE-0023,Mask Missing,Worker observed without proper PPE near the assembly section.,High,In Progress,Construction Site,Brittany Brown
+SAFE-0024,Helmet Missing,Safety helmet violation identified in construction area.,Low,In Progress,Assembly Line,Jeffrey Jones
+SAFE-0025,Helmet Missing,Unsafe activity detected close to heavy machinery.,High,Resolved,Loading Dock,Erik Turner
+SAFE-0026,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,High,Open,Factory Floor,Eduardo Yang
+SAFE-0027,Restricted Area Entry,Emergency alarm triggered in the production area.,Moderate,Resolved,Storage Area,Melissa Lee
+SAFE-0028,Gloves Not Worn,Machine produced abnormal sounds during operation.,Low,Open,Factory Floor,Brandi Mitchell
+SAFE-0029,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Storage Area,Stephanie Buckley
+SAFE-0030,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Construction Site,Melissa Owens
+SAFE-0031,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Construction Site,Kim Abbott
+SAFE-0032,Gloves Not Worn,Chemical spill reported near storage containers.,Moderate,Resolved,Construction Site,Amanda Mitchell
+SAFE-0033,Mask Missing,Safety helmet violation identified in construction area.,High,In Progress,Warehouse,Teresa Miller
+SAFE-0034,Restricted Area Entry,Emergency alarm triggered in the production area.,High,Resolved,Loading Dock,Nancy Schneider
+SAFE-0035,Emergency Alarm,Machine produced abnormal sounds during operation.,Low,Resolved,Assembly Line,Michelle Jordan
+SAFE-0036,Restricted Area Entry,Protective gloves were not used during equipment handling.,High,Open,Warehouse,Jessica Mcguire
+SAFE-0037,Slippery Floor,Employee entered a restricted zone without authorization.,Low,In Progress,Factory Floor,Joseph Mcgee
+SAFE-0038,Unsafe Machine Interaction,Chemical spill reported near storage containers.,High,Open,Factory Floor,Timothy Jimenez
+SAFE-0039,Mask Missing,Chemical spill reported near storage containers.,Low,In Progress,Loading Dock,Connie Johnson
+SAFE-0040,Slippery Floor,Protective gloves were not used during equipment handling.,High,Open,Warehouse,Angela Church
+SAFE-0041,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Loading Dock,Christopher Harmon
+SAFE-0042,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Storage Area,Elizabeth Wilson
+SAFE-0043,Helmet Missing,Safety helmet violation identified in construction area.,Moderate,Open,Construction Site,Hannah Cooper DVM
+SAFE-0044,Electrical Hazard,Safety helmet violation identified in construction area.,High,Resolved,Warehouse,Shannon Aguirre
+SAFE-0045,Slippery Floor,Employee entered a restricted zone without authorization.,Moderate,Resolved,Assembly Line,Cynthia Roth
+SAFE-0046,Restricted Area Entry,Emergency alarm triggered in the production area.,High,Resolved,Loading Dock,Teresa Cunningham
+SAFE-0047,Worker Fall,Chemical spill reported near storage containers.,High,Open,Factory Floor,Bruce Alvarado
+SAFE-0048,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Loading Dock,Krista Walters
+SAFE-0049,Worker Fall,Safety helmet violation identified in construction area.,Low,Open,Warehouse,Tonya Taylor
+SAFE-0050,Slippery Floor,Employee entered a restricted zone without authorization.,Low,In Progress,Factory Floor,Amanda Miller
+SAFE-0051,Emergency Alarm,Chemical spill reported near storage containers.,Moderate,Resolved,Storage Area,Joseph Jackson
+SAFE-0052,Mask Missing,Protective gloves were not used during equipment handling.,Low,In Progress,Factory Floor,Dorothy Patton
+SAFE-0053,Electrical Hazard,Emergency alarm triggered in the production area.,High,In Progress,Factory Floor,Kristina Johnson
+SAFE-0054,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Loading Dock,Bradley Sloan Jr.
+SAFE-0055,Mask Missing,Emergency alarm triggered in the production area.,High,Resolved,Assembly Line,Mary Moore
+SAFE-0056,Slippery Floor,Safety helmet violation identified in construction area.,High,Resolved,Factory Floor,Linda Flynn
+SAFE-0057,Helmet Missing,Employee entered a restricted zone without authorization.,High,In Progress,Assembly Line,Seth Mcclure
+SAFE-0058,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Moderate,Open,Warehouse,Brian Lewis
+SAFE-0059,Restricted Area Entry,Emergency alarm triggered in the production area.,Moderate,Resolved,Construction Site,Tristan Powell
+SAFE-0060,Emergency Alarm,Unsafe activity detected close to heavy machinery.,Low,Open,Construction Site,Victoria Ross
+SAFE-0061,Unsafe Machine Interaction,Chemical spill reported near storage containers.,High,Open,Assembly Line,Amy White
+SAFE-0062,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Warehouse,Jeffrey Carlson
+SAFE-0063,Electrical Hazard,Safety helmet violation identified in construction area.,Moderate,Open,Assembly Line,Erin Welch
+SAFE-0064,Emergency Alarm,Machine produced abnormal sounds during operation.,Moderate,Open,Construction Site,Connor Taylor
+SAFE-0065,Mask Missing,Unsafe activity detected close to heavy machinery.,Low,Resolved,Loading Dock,Tammy Black
+SAFE-0066,Slippery Floor,Employee entered a restricted zone without authorization.,Moderate,Open,Storage Area,Matthew Strong
+SAFE-0067,Emergency Alarm,Worker observed without proper PPE near the assembly section.,High,Open,Assembly Line,Lindsey Rojas
+SAFE-0068,Emergency Alarm,Machine produced abnormal sounds during operation.,Low,Open,Storage Area,Marcus James
+SAFE-0069,Chemical Spill,Protective gloves were not used during equipment handling.,High,Open,Loading Dock,Amber Gallagher
+SAFE-0070,Electrical Hazard,Protective gloves were not used during equipment handling.,Low,In Progress,Storage Area,Kimberly Robertson
+SAFE-0071,Worker Fall,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Warehouse,Terrence Melton
+SAFE-0072,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Moderate,In Progress,Factory Floor,Tracey Martinez
+SAFE-0073,Emergency Alarm,Unsafe activity detected close to heavy machinery.,High,Resolved,Warehouse,Timothy White
+SAFE-0074,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,Low,Resolved,Storage Area,Steven Wilson
+SAFE-0075,Worker Fall,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Warehouse,Scott Williamson
+SAFE-0076,Emergency Alarm,Machine produced abnormal sounds during operation.,Low,Open,Factory Floor,Kathleen Stewart
+SAFE-0077,Emergency Alarm,Chemical spill reported near storage containers.,Moderate,In Progress,Construction Site,Nicole Morrison
+SAFE-0078,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Construction Site,Allison Zamora
+SAFE-0079,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,High,In Progress,Factory Floor,Jennifer Lopez
+SAFE-0080,Emergency Alarm,Employee entered a restricted zone without authorization.,Moderate,Resolved,Loading Dock,Blake Robinson
+SAFE-0081,Electrical Hazard,Chemical spill reported near storage containers.,High,Open,Construction Site,Amber Herman
+SAFE-0082,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Construction Site,Katherine Morrow
+SAFE-0083,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Warehouse,Mary Neal
+SAFE-0084,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Construction Site,Adam Bailey
+SAFE-0085,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Moderate,In Progress,Assembly Line,Christopher Moyer
+SAFE-0086,Worker Fall,Employee entered a restricted zone without authorization.,High,Resolved,Warehouse,John Green
+SAFE-0087,Chemical Spill,Employee entered a restricted zone without authorization.,Low,Resolved,Loading Dock,Erik White
+SAFE-0088,Emergency Alarm,Worker observed without proper PPE near the assembly section.,Low,Open,Warehouse,Matthew Martin
+SAFE-0089,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Moderate,Open,Construction Site,Mr. Sean Fisher
+SAFE-0090,Restricted Area Entry,Worker observed without proper PPE near the assembly section.,Low,In Progress,Assembly Line,Michelle Mckenzie
+SAFE-0091,Chemical Spill,Chemical spill reported near storage containers.,Low,Resolved,Assembly Line,Courtney Myers
+SAFE-0092,Restricted Area Entry,Emergency alarm triggered in the production area.,High,Open,Factory Floor,Jonathan Watkins
+SAFE-0093,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Warehouse,Cory Smith
+SAFE-0094,Worker Fall,Safety helmet violation identified in construction area.,Moderate,Resolved,Loading Dock,Christina Smith
+SAFE-0095,Helmet Missing,Safety helmet violation identified in construction area.,Low,Open,Loading Dock,Felicia Meyer
+SAFE-0096,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,Low,Open,Warehouse,Rachel Villegas
+SAFE-0097,Helmet Missing,Machine produced abnormal sounds during operation.,High,Resolved,Factory Floor,Jim Anderson
+SAFE-0098,Slippery Floor,Worker observed without proper PPE near the assembly section.,High,In Progress,Warehouse,Andrew Smith
+SAFE-0099,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Loading Dock,Connie Lopez
+SAFE-0100,Emergency Alarm,Chemical spill reported near storage containers.,Low,In Progress,Assembly Line,Robert Mercado
+SAFE-0101,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Warehouse,Charles Pratt
+SAFE-0102,Electrical Hazard,Protective gloves were not used during equipment handling.,Moderate,Resolved,Storage Area,James Duran
+SAFE-0103,Worker Fall,Unsafe activity detected close to heavy machinery.,High,In Progress,Assembly Line,Karen Norman
+SAFE-0104,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,Moderate,Open,Loading Dock,Jonathan Huerta
+SAFE-0105,Emergency Alarm,Protective gloves were not used during equipment handling.,High,Resolved,Loading Dock,Shannon Anderson
+SAFE-0106,Worker Fall,Protective gloves were not used during equipment handling.,Moderate,In Progress,Storage Area,Zachary Jordan
+SAFE-0107,Mask Missing,Employee entered a restricted zone without authorization.,High,In Progress,Assembly Line,Jeffrey Ross
+SAFE-0108,Mask Missing,Unsafe activity detected close to heavy machinery.,High,Resolved,Factory Floor,Veronica Hernandez
+SAFE-0109,Helmet Missing,Employee entered a restricted zone without authorization.,Low,Resolved,Loading Dock,David Burgess
+SAFE-0110,Slippery Floor,Emergency alarm triggered in the production area.,Moderate,In Progress,Storage Area,Lisa Floyd
+SAFE-0111,Electrical Hazard,Protective gloves were not used during equipment handling.,Low,Resolved,Factory Floor,Nicholas Daniels
+SAFE-0112,Electrical Hazard,Worker observed without proper PPE near the assembly section.,High,In Progress,Factory Floor,Eric Harris
+SAFE-0113,Slippery Floor,Employee entered a restricted zone without authorization.,High,In Progress,Storage Area,Gail Campbell
+SAFE-0114,Electrical Hazard,Emergency alarm triggered in the production area.,Moderate,Resolved,Construction Site,Shelley Parker
+SAFE-0115,Worker Fall,Worker reported difficulty breathing due to dust exposure.,High,Open,Storage Area,Jennifer White
+SAFE-0116,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,Low,Open,Storage Area,Adam Nichols
+SAFE-0117,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,High,Resolved,Factory Floor,Jonathan Smith
+SAFE-0118,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Low,Open,Warehouse,Daniel Young
+SAFE-0119,Slippery Floor,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Storage Area,Ryan Fox
+SAFE-0120,Restricted Area Entry,Protective gloves were not used during equipment handling.,High,Resolved,Assembly Line,Ivan Lawrence
+SAFE-0121,Slippery Floor,Unsafe activity detected close to heavy machinery.,High,In Progress,Storage Area,Alyssa Solis
+SAFE-0122,Mask Missing,Protective gloves were not used during equipment handling.,Low,Open,Factory Floor,Steven Roberts
+SAFE-0123,Mask Missing,Unsafe activity detected close to heavy machinery.,Low,In Progress,Loading Dock,Eric Sawyer
+SAFE-0124,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,High,Resolved,Storage Area,Chris Miller
+SAFE-0125,Mask Missing,Machine produced abnormal sounds during operation.,High,Resolved,Warehouse,Carrie Barber
+SAFE-0126,Gloves Not Worn,Employee entered a restricted zone without authorization.,Low,Open,Factory Floor,Lori Fuller
+SAFE-0127,Helmet Missing,Chemical spill reported near storage containers.,Moderate,Open,Factory Floor,David Montgomery
+SAFE-0128,Chemical Spill,Emergency alarm triggered in the production area.,High,Open,Warehouse,Vanessa Jones
+SAFE-0129,Chemical Spill,Protective gloves were not used during equipment handling.,Low,Resolved,Factory Floor,Joseph Thompson
+SAFE-0130,Slippery Floor,Chemical spill reported near storage containers.,Low,Open,Construction Site,Jeffrey Shaw
+SAFE-0131,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,High,Resolved,Assembly Line,Amy Green
+SAFE-0132,Worker Fall,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Factory Floor,Robert Brown
+SAFE-0133,Mask Missing,Worker observed without proper PPE near the assembly section.,Low,In Progress,Construction Site,Sarah Snyder
+SAFE-0134,Helmet Missing,Employee entered a restricted zone without authorization.,Moderate,Resolved,Assembly Line,Dylan Contreras
+SAFE-0135,Gloves Not Worn,Emergency alarm triggered in the production area.,High,Open,Warehouse,Ashley Harmon
+SAFE-0136,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,High,Open,Loading Dock,Sarah Sexton
+SAFE-0137,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Warehouse,Katelyn Gibson PhD
+SAFE-0138,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,Low,Resolved,Construction Site,Mr. Samuel Rubio
+SAFE-0139,Chemical Spill,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Warehouse,Lindsay Thomas
+SAFE-0140,Worker Fall,Safety helmet violation identified in construction area.,Moderate,In Progress,Assembly Line,Brian Garcia
+SAFE-0141,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,High,Open,Factory Floor,Vanessa Morrison
+SAFE-0142,Emergency Alarm,Unsafe activity detected close to heavy machinery.,High,In Progress,Factory Floor,Angela Davenport
+SAFE-0143,Helmet Missing,Protective gloves were not used during equipment handling.,High,Open,Loading Dock,Melinda Morris
+SAFE-0144,Emergency Alarm,Machine produced abnormal sounds during operation.,Moderate,Resolved,Factory Floor,Raymond Flores
+SAFE-0145,Slippery Floor,Unsafe activity detected close to heavy machinery.,Low,Resolved,Assembly Line,Jonathan Williams
+SAFE-0146,Helmet Missing,Worker observed without proper PPE near the assembly section.,Low,Open,Warehouse,Bryan Smith
+SAFE-0147,Restricted Area Entry,Protective gloves were not used during equipment handling.,Low,Open,Storage Area,Mary Jordan
+SAFE-0148,Restricted Area Entry,Chemical spill reported near storage containers.,Moderate,In Progress,Loading Dock,Amy Stephenson
+SAFE-0149,Slippery Floor,Employee entered a restricted zone without authorization.,High,Resolved,Loading Dock,Erin Livingston
+SAFE-0150,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,Open,Storage Area,Dr. William Martinez
+SAFE-0151,Mask Missing,Unsafe activity detected close to heavy machinery.,Low,Resolved,Warehouse,Mr. Jeffrey Jackson PhD
+SAFE-0152,Restricted Area Entry,Chemical spill reported near storage containers.,High,Open,Loading Dock,Bradley Gray
+SAFE-0153,Helmet Missing,Worker observed without proper PPE near the assembly section.,High,Open,Warehouse,Caleb Ramirez
+SAFE-0154,Helmet Missing,Worker observed without proper PPE near the assembly section.,High,Resolved,Assembly Line,Matthew Murphy
+SAFE-0155,Worker Fall,Machine produced abnormal sounds during operation.,Moderate,Open,Assembly Line,Briana Sampson
+SAFE-0156,Emergency Alarm,Worker observed without proper PPE near the assembly section.,High,Resolved,Warehouse,Julie Pugh DDS
+SAFE-0157,Chemical Spill,Chemical spill reported near storage containers.,Low,Open,Loading Dock,James Stout
+SAFE-0158,Electrical Hazard,Safety helmet violation identified in construction area.,Low,Open,Assembly Line,Janice Duncan
+SAFE-0159,Mask Missing,Emergency alarm triggered in the production area.,High,Resolved,Construction Site,Andrew Miller
+SAFE-0160,Slippery Floor,Safety helmet violation identified in construction area.,High,In Progress,Storage Area,Stephanie Hill
+SAFE-0161,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,Resolved,Loading Dock,Elizabeth Patterson
+SAFE-0162,Slippery Floor,Unsafe activity detected close to heavy machinery.,Moderate,Open,Construction Site,Christopher Schultz
+SAFE-0163,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,Low,Open,Storage Area,Michael Crawford
+SAFE-0164,Emergency Alarm,Safety helmet violation identified in construction area.,Low,Open,Loading Dock,Diamond Salas
+SAFE-0165,Gloves Not Worn,Safety helmet violation identified in construction area.,Moderate,In Progress,Loading Dock,Stephen Mills
+SAFE-0166,Worker Fall,Machine produced abnormal sounds during operation.,Moderate,Resolved,Loading Dock,Jacob Mann
+SAFE-0167,Slippery Floor,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Storage Area,Jonathan Mccoy
+SAFE-0168,Emergency Alarm,Machine produced abnormal sounds during operation.,Moderate,Resolved,Warehouse,Mrs. Angelica Wilson PhD
+SAFE-0169,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,Resolved,Factory Floor,Julie Patterson
+SAFE-0170,Electrical Hazard,Worker observed without proper PPE near the assembly section.,High,In Progress,Factory Floor,Chloe Jones
+SAFE-0171,Emergency Alarm,Emergency alarm triggered in the production area.,High,Resolved,Storage Area,Misty Ellis
+SAFE-0172,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,Open,Factory Floor,Michael Gentry
+SAFE-0173,Mask Missing,Worker observed without proper PPE near the assembly section.,High,In Progress,Assembly Line,Amanda Silva
+SAFE-0174,Gloves Not Worn,Emergency alarm triggered in the production area.,Moderate,In Progress,Warehouse,Nicholas Collins
+SAFE-0175,Emergency Alarm,Chemical spill reported near storage containers.,High,Open,Loading Dock,Matthew Stokes
+SAFE-0176,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,Low,Open,Loading Dock,Timothy Adams
+SAFE-0177,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Loading Dock,Juan Rodriguez
+SAFE-0178,Unsafe Machine Interaction,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Warehouse,Paul Stewart
+SAFE-0179,Electrical Hazard,Protective gloves were not used during equipment handling.,High,Open,Storage Area,Brett Hernandez
+SAFE-0180,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,Low,Resolved,Factory Floor,Jake Rogers
+SAFE-0181,Helmet Missing,Machine produced abnormal sounds during operation.,Moderate,In Progress,Construction Site,Ricardo Parker
+SAFE-0182,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,Resolved,Factory Floor,Lori Garcia
+SAFE-0183,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,High,Open,Storage Area,Scott Clark
+SAFE-0184,Helmet Missing,Emergency alarm triggered in the production area.,Low,In Progress,Factory Floor,Andrew Jackson
+SAFE-0185,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Factory Floor,Samantha Sharp
+SAFE-0186,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Factory Floor,Matthew Foster
+SAFE-0187,Mask Missing,Unsafe activity detected close to heavy machinery.,High,In Progress,Loading Dock,Angela Thomas PhD
+SAFE-0188,Gloves Not Worn,Safety helmet violation identified in construction area.,High,In Progress,Factory Floor,Thomas Bush
+SAFE-0189,Worker Fall,Worker observed without proper PPE near the assembly section.,Moderate,Open,Warehouse,Christina Griffith
+SAFE-0190,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,Low,In Progress,Loading Dock,Mario Swanson
+SAFE-0191,Restricted Area Entry,Safety helmet violation identified in construction area.,High,Resolved,Construction Site,William Thompson
+SAFE-0192,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Construction Site,Kimberly Hess
+SAFE-0193,Electrical Hazard,Emergency alarm triggered in the production area.,Moderate,In Progress,Loading Dock,Victoria Garcia
+SAFE-0194,Worker Fall,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Factory Floor,Alexis Andersen
+SAFE-0195,Helmet Missing,Safety helmet violation identified in construction area.,Low,Open,Factory Floor,Chase Johnson
+SAFE-0196,Gloves Not Worn,Employee entered a restricted zone without authorization.,High,Open,Loading Dock,Joseph West
+SAFE-0197,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,Moderate,Open,Assembly Line,Steven Tran
+SAFE-0198,Helmet Missing,Protective gloves were not used during equipment handling.,Low,Resolved,Factory Floor,Mark Marks
+SAFE-0199,Slippery Floor,Emergency alarm triggered in the production area.,High,Resolved,Warehouse,Lisa Johnson
+SAFE-0200,Helmet Missing,Employee entered a restricted zone without authorization.,Moderate,In Progress,Loading Dock,Raymond Turner
+SAFE-0201,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Storage Area,Benjamin Maldonado
+SAFE-0202,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Loading Dock,Sara Keller
+SAFE-0203,Slippery Floor,Safety helmet violation identified in construction area.,Moderate,Open,Assembly Line,Heather Abbott
+SAFE-0204,Emergency Alarm,Protective gloves were not used during equipment handling.,Moderate,Resolved,Storage Area,Michael Sullivan
+SAFE-0205,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,High,In Progress,Storage Area,Jason Lewis
+SAFE-0206,Helmet Missing,Employee entered a restricted zone without authorization.,Low,Resolved,Warehouse,Mark Orr
+SAFE-0207,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,Low,In Progress,Construction Site,David Moody
+SAFE-0208,Emergency Alarm,Machine produced abnormal sounds during operation.,Moderate,Open,Assembly Line,Katherine Rhodes
+SAFE-0209,Worker Fall,Chemical spill reported near storage containers.,High,In Progress,Factory Floor,Amber Prince
+SAFE-0210,Slippery Floor,Machine produced abnormal sounds during operation.,High,Resolved,Construction Site,Teresa Rubio
+SAFE-0211,Slippery Floor,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Factory Floor,Jake Sosa
+SAFE-0212,Electrical Hazard,Protective gloves were not used during equipment handling.,High,Open,Storage Area,Lindsay Torres
+SAFE-0213,Chemical Spill,Worker observed without proper PPE near the assembly section.,High,Open,Assembly Line,Amanda Smith
+SAFE-0214,Worker Fall,Chemical spill reported near storage containers.,Low,In Progress,Warehouse,Christina Montes
+SAFE-0215,Electrical Hazard,Safety helmet violation identified in construction area.,Low,Resolved,Assembly Line,Robert Moran
+SAFE-0216,Helmet Missing,Unsafe activity detected close to heavy machinery.,High,In Progress,Construction Site,Anthony Jacobson
+SAFE-0217,Slippery Floor,Employee entered a restricted zone without authorization.,High,In Progress,Warehouse,Raymond King
+SAFE-0218,Slippery Floor,Chemical spill reported near storage containers.,High,In Progress,Assembly Line,John Porter
+SAFE-0219,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Moderate,Open,Factory Floor,Cynthia Watkins
+SAFE-0220,Electrical Hazard,Worker observed without proper PPE near the assembly section.,High,In Progress,Construction Site,Michele Johnson
+SAFE-0221,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,Low,Resolved,Storage Area,Sally Ware
+SAFE-0222,Chemical Spill,Protective gloves were not used during equipment handling.,Moderate,Open,Warehouse,Suzanne Everett
+SAFE-0223,Electrical Hazard,Protective gloves were not used during equipment handling.,Low,In Progress,Warehouse,Martin Smith
+SAFE-0224,Electrical Hazard,Emergency alarm triggered in the production area.,Low,In Progress,Assembly Line,Maria Baker
+SAFE-0225,Worker Fall,Unsafe activity detected close to heavy machinery.,Low,Open,Storage Area,Tyler Owen
+SAFE-0226,Electrical Hazard,Protective gloves were not used during equipment handling.,High,Open,Warehouse,Natasha Stewart
+SAFE-0227,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,High,Open,Factory Floor,Katherine Weaver
+SAFE-0228,Chemical Spill,Machine produced abnormal sounds during operation.,High,Open,Construction Site,Nathaniel Branch
+SAFE-0229,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,Low,Open,Warehouse,Dylan Pace
+SAFE-0230,Emergency Alarm,Machine produced abnormal sounds during operation.,Moderate,Open,Construction Site,Tanya Palmer
+SAFE-0231,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,Low,In Progress,Factory Floor,Richard Guerra
+SAFE-0232,Unsafe Machine Interaction,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Loading Dock,Amanda Riley MD
+SAFE-0233,Restricted Area Entry,Chemical spill reported near storage containers.,Moderate,Open,Assembly Line,Kristine Ward
+SAFE-0234,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,Low,Resolved,Factory Floor,Mark Bryan
+SAFE-0235,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Low,Open,Loading Dock,Charles Brown
+SAFE-0236,Mask Missing,Employee entered a restricted zone without authorization.,Moderate,Open,Assembly Line,Kiara Meadows
+SAFE-0237,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,Open,Construction Site,James Gonzalez
+SAFE-0238,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Moderate,Resolved,Loading Dock,Nicholas Torres
+SAFE-0239,Slippery Floor,Safety helmet violation identified in construction area.,High,Open,Loading Dock,Timothy Sanders
+SAFE-0240,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,In Progress,Construction Site,Paul White
+SAFE-0241,Emergency Alarm,Protective gloves were not used during equipment handling.,Moderate,Open,Loading Dock,Shannon Long
+SAFE-0242,Worker Fall,Chemical spill reported near storage containers.,Moderate,Open,Warehouse,Ross Welch
+SAFE-0243,Mask Missing,Safety helmet violation identified in construction area.,Low,Resolved,Warehouse,Gary Brown
+SAFE-0244,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Construction Site,Cole Wilson
+SAFE-0245,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Low,Open,Assembly Line,Abigail Adams
+SAFE-0246,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,Low,In Progress,Storage Area,Natalie Garcia
+SAFE-0247,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,Low,In Progress,Storage Area,Scott Blanchard
+SAFE-0248,Gloves Not Worn,Employee entered a restricted zone without authorization.,Moderate,Resolved,Factory Floor,Rachel Hinton
+SAFE-0249,Worker Fall,Unsafe activity detected close to heavy machinery.,High,In Progress,Construction Site,Patrick Christian
+SAFE-0250,Chemical Spill,Unsafe activity detected close to heavy machinery.,High,Open,Construction Site,Robert Powers
+SAFE-0251,Mask Missing,Protective gloves were not used during equipment handling.,Low,In Progress,Assembly Line,Christopher Anderson
+SAFE-0252,Gloves Not Worn,Chemical spill reported near storage containers.,Moderate,Open,Storage Area,Curtis Winters
+SAFE-0253,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Assembly Line,Jessica House
+SAFE-0254,Gloves Not Worn,Safety helmet violation identified in construction area.,Moderate,Resolved,Assembly Line,Sherry Ramsey
+SAFE-0255,Gloves Not Worn,Protective gloves were not used during equipment handling.,High,Open,Loading Dock,Alicia Martinez
+SAFE-0256,Restricted Area Entry,Employee entered a restricted zone without authorization.,Moderate,Resolved,Factory Floor,Jessica Smith
+SAFE-0257,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Storage Area,Eric Hinton
+SAFE-0258,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Assembly Line,Tiffany Bailey
+SAFE-0259,Chemical Spill,Worker observed without proper PPE near the assembly section.,Low,In Progress,Factory Floor,Crystal Greene
+SAFE-0260,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,High,Open,Warehouse,Jean Johnson
+SAFE-0261,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Low,Resolved,Construction Site,Christopher Weber
+SAFE-0262,Restricted Area Entry,Machine produced abnormal sounds during operation.,High,Open,Factory Floor,Shane Baker
+SAFE-0263,Chemical Spill,Protective gloves were not used during equipment handling.,Moderate,Resolved,Warehouse,Dillon Whitney
+SAFE-0264,Slippery Floor,Unsafe activity detected close to heavy machinery.,High,Open,Factory Floor,Dave Foster
+SAFE-0265,Gloves Not Worn,Chemical spill reported near storage containers.,High,In Progress,Loading Dock,Jessica Silva
+SAFE-0266,Chemical Spill,Employee entered a restricted zone without authorization.,Low,Resolved,Assembly Line,Paula Reed
+SAFE-0267,Mask Missing,Machine produced abnormal sounds during operation.,Moderate,Resolved,Warehouse,Jeffrey Zuniga
+SAFE-0268,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,High,In Progress,Warehouse,Michael Smith
+SAFE-0269,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Low,Open,Storage Area,Alan House
+SAFE-0270,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,High,Open,Construction Site,Crystal Collins
+SAFE-0271,Restricted Area Entry,Emergency alarm triggered in the production area.,Low,Resolved,Storage Area,Brian Valdez
+SAFE-0272,Electrical Hazard,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Storage Area,Timothy Chapman
+SAFE-0273,Emergency Alarm,Chemical spill reported near storage containers.,High,Open,Storage Area,Rachel Brown DDS
+SAFE-0274,Chemical Spill,Machine produced abnormal sounds during operation.,Moderate,Open,Warehouse,Joy Rocha
+SAFE-0275,Helmet Missing,Safety helmet violation identified in construction area.,Moderate,Resolved,Assembly Line,Sandra Johnson
+SAFE-0276,Slippery Floor,Machine produced abnormal sounds during operation.,Low,In Progress,Construction Site,Jenny Jenkins
+SAFE-0277,Slippery Floor,Protective gloves were not used during equipment handling.,Moderate,Resolved,Construction Site,Brian Clark
+SAFE-0278,Mask Missing,Emergency alarm triggered in the production area.,Moderate,Resolved,Loading Dock,Adam Parker
+SAFE-0279,Helmet Missing,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Warehouse,Travis Wallace
+SAFE-0280,Helmet Missing,Chemical spill reported near storage containers.,Low,Open,Factory Floor,Vanessa Jensen
+SAFE-0281,Worker Fall,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Loading Dock,Alex Hansen
+SAFE-0282,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Warehouse,Maurice Oliver
+SAFE-0283,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Low,Open,Loading Dock,Gabriella Hamilton
+SAFE-0284,Chemical Spill,Unsafe activity detected close to heavy machinery.,High,Open,Assembly Line,Heather Williams
+SAFE-0285,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Assembly Line,Alex Meyers
+SAFE-0286,Chemical Spill,Protective gloves were not used during equipment handling.,High,Open,Warehouse,Marco Gray
+SAFE-0287,Helmet Missing,Protective gloves were not used during equipment handling.,High,Resolved,Assembly Line,Matthew Diaz
+SAFE-0288,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Moderate,In Progress,Assembly Line,Victor Walls
+SAFE-0289,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Loading Dock,Kevin Douglas
+SAFE-0290,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Loading Dock,Christopher Lewis
+SAFE-0291,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,Open,Warehouse,Jacob Reyes
+SAFE-0292,Emergency Alarm,Employee entered a restricted zone without authorization.,High,In Progress,Assembly Line,Robert House
+SAFE-0293,Electrical Hazard,Unsafe activity detected close to heavy machinery.,High,In Progress,Loading Dock,Dale Hernandez
+SAFE-0294,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,Low,Open,Assembly Line,Jaime Lane
+SAFE-0295,Electrical Hazard,Employee entered a restricted zone without authorization.,Low,Open,Warehouse,Alicia Martinez
+SAFE-0296,Unsafe Machine Interaction,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Loading Dock,Matthew Dunn
+SAFE-0297,Worker Fall,Unsafe activity detected close to heavy machinery.,Low,Resolved,Construction Site,Anne Kirby
+SAFE-0298,Emergency Alarm,Worker observed without proper PPE near the assembly section.,High,In Progress,Factory Floor,Whitney Pham
+SAFE-0299,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Factory Floor,Anthony Cross
+SAFE-0300,Emergency Alarm,Employee entered a restricted zone without authorization.,Low,Resolved,Warehouse,Jessica Anderson
+SAFE-0301,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,High,Resolved,Factory Floor,Nicholas Campbell
+SAFE-0302,Emergency Alarm,Employee entered a restricted zone without authorization.,Moderate,In Progress,Assembly Line,Meghan Wilson
+SAFE-0303,Worker Fall,Worker slipped due to wet flooring near the warehouse.,High,Open,Assembly Line,Molly Marquez
+SAFE-0304,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,Resolved,Storage Area,Paul Brown MD
+SAFE-0305,Electrical Hazard,Unsafe activity detected close to heavy machinery.,High,Open,Construction Site,Gary Foster
+SAFE-0306,Unsafe Machine Interaction,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Loading Dock,Mr. Chad Vega
+SAFE-0307,Helmet Missing,Emergency alarm triggered in the production area.,Moderate,In Progress,Loading Dock,Jillian Wilson
+SAFE-0308,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Low,Open,Loading Dock,Mark Ferrell
+SAFE-0309,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Loading Dock,Eric Jackson
+SAFE-0310,Unsafe Machine Interaction,Worker reported difficulty breathing due to dust exposure.,Low,Open,Loading Dock,Sarah Simmons
+SAFE-0311,Electrical Hazard,Emergency alarm triggered in the production area.,Low,Resolved,Construction Site,Tracy Baker
+SAFE-0312,Chemical Spill,Machine produced abnormal sounds during operation.,High,Resolved,Storage Area,Adam Thomas
+SAFE-0313,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Storage Area,Robert Arellano
+SAFE-0314,Slippery Floor,Emergency alarm triggered in the production area.,High,In Progress,Assembly Line,Jonathan Ortiz
+SAFE-0315,Slippery Floor,Employee entered a restricted zone without authorization.,High,In Progress,Factory Floor,Ian Hart
+SAFE-0316,Slippery Floor,Worker observed without proper PPE near the assembly section.,High,In Progress,Loading Dock,Eric Armstrong
+SAFE-0317,Chemical Spill,Unsafe activity detected close to heavy machinery.,Low,Resolved,Warehouse,Christina Fleming
+SAFE-0318,Electrical Hazard,Chemical spill reported near storage containers.,Moderate,Open,Factory Floor,Amy Taylor
+SAFE-0319,Worker Fall,Safety helmet violation identified in construction area.,Moderate,Open,Loading Dock,Corey Chavez
+SAFE-0320,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,High,Open,Warehouse,Suzanne Reed
+SAFE-0321,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Assembly Line,Kathryn Kennedy
+SAFE-0322,Unsafe Machine Interaction,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Construction Site,Jonathan Browning
+SAFE-0323,Helmet Missing,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Assembly Line,Melissa Chapman
+SAFE-0324,Worker Fall,Chemical spill reported near storage containers.,Moderate,Resolved,Loading Dock,Kaitlin Douglas
+SAFE-0325,Mask Missing,Emergency alarm triggered in the production area.,Moderate,In Progress,Warehouse,Katherine Mcpherson
+SAFE-0326,Electrical Hazard,Worker observed without proper PPE near the assembly section.,High,In Progress,Warehouse,Julia Wilson
+SAFE-0327,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Low,Resolved,Factory Floor,Jean Navarro
+SAFE-0328,Chemical Spill,Employee entered a restricted zone without authorization.,Moderate,Resolved,Warehouse,Kathy Lloyd
+SAFE-0329,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,High,Resolved,Storage Area,Brandon Turner
+SAFE-0330,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Factory Floor,Veronica Bruce
+SAFE-0331,Mask Missing,Emergency alarm triggered in the production area.,Low,In Progress,Assembly Line,Alexander Ball
+SAFE-0332,Gloves Not Worn,Protective gloves were not used during equipment handling.,Moderate,Resolved,Factory Floor,Todd Quinn
+SAFE-0333,Emergency Alarm,Emergency alarm triggered in the production area.,Moderate,In Progress,Factory Floor,Sherri Chavez
+SAFE-0334,Restricted Area Entry,Worker observed without proper PPE near the assembly section.,Moderate,Open,Loading Dock,Kayla Gibson
+SAFE-0335,Electrical Hazard,Chemical spill reported near storage containers.,Moderate,Open,Storage Area,Rebecca Mccullough
+SAFE-0336,Mask Missing,Protective gloves were not used during equipment handling.,Low,In Progress,Assembly Line,Kimberly Pineda
+SAFE-0337,Slippery Floor,Protective gloves were not used during equipment handling.,Moderate,Open,Factory Floor,Andrea Martinez
+SAFE-0338,Chemical Spill,Worker observed without proper PPE near the assembly section.,Moderate,Open,Warehouse,Becky Moore
+SAFE-0339,Electrical Hazard,Chemical spill reported near storage containers.,Low,In Progress,Construction Site,Ashley Leach
+SAFE-0340,Restricted Area Entry,Safety helmet violation identified in construction area.,Moderate,In Progress,Storage Area,Shannon Bruce
+SAFE-0341,Worker Fall,Worker observed without proper PPE near the assembly section.,Moderate,Open,Loading Dock,Frederick Lynch
+SAFE-0342,Worker Fall,Protective gloves were not used during equipment handling.,Low,Resolved,Storage Area,Colleen Mora
+SAFE-0343,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Loading Dock,Michaela Hernandez
+SAFE-0344,Worker Fall,Worker slipped due to wet flooring near the warehouse.,High,Resolved,Factory Floor,Denise Coleman
+SAFE-0345,Chemical Spill,Machine produced abnormal sounds during operation.,Low,Open,Warehouse,David Elliott
+SAFE-0346,Slippery Floor,Unsafe activity detected close to heavy machinery.,High,Resolved,Storage Area,Patrick Carroll
+SAFE-0347,Mask Missing,Protective gloves were not used during equipment handling.,High,Resolved,Assembly Line,Melissa Williams
+SAFE-0348,Emergency Alarm,Protective gloves were not used during equipment handling.,High,In Progress,Construction Site,Cheryl Cox
+SAFE-0349,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Low,Open,Assembly Line,April Mack
+SAFE-0350,Gloves Not Worn,Chemical spill reported near storage containers.,Moderate,In Progress,Storage Area,Joyce Mccall
+SAFE-0351,Mask Missing,Emergency alarm triggered in the production area.,High,Resolved,Loading Dock,Shari Jackson
+SAFE-0352,Helmet Missing,Worker observed without proper PPE near the assembly section.,High,Resolved,Loading Dock,Megan Cruz
+SAFE-0353,Worker Fall,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Assembly Line,Mike Munoz
+SAFE-0354,Helmet Missing,Worker observed without proper PPE near the assembly section.,High,In Progress,Storage Area,Kathy Sampson
+SAFE-0355,Worker Fall,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Loading Dock,Michael Goodman
+SAFE-0356,Emergency Alarm,Machine produced abnormal sounds during operation.,High,In Progress,Assembly Line,Tonya Ortiz
+SAFE-0357,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,High,Open,Loading Dock,John Hoover
+SAFE-0358,Helmet Missing,Employee entered a restricted zone without authorization.,High,Open,Factory Floor,Matthew Bridges
+SAFE-0359,Electrical Hazard,Employee entered a restricted zone without authorization.,High,Resolved,Assembly Line,Faith Archer
+SAFE-0360,Slippery Floor,Emergency alarm triggered in the production area.,Low,Open,Loading Dock,Cheryl Howard
+SAFE-0361,Helmet Missing,Chemical spill reported near storage containers.,Moderate,Resolved,Assembly Line,Angela Frank
+SAFE-0362,Helmet Missing,Machine produced abnormal sounds during operation.,High,Open,Factory Floor,Abigail Walker MD
+SAFE-0363,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,High,Resolved,Factory Floor,Stephanie Santana
+SAFE-0364,Worker Fall,Emergency alarm triggered in the production area.,High,Open,Assembly Line,Meghan Calderon
+SAFE-0365,Helmet Missing,Protective gloves were not used during equipment handling.,Low,In Progress,Storage Area,Christopher Williams
+SAFE-0366,Worker Fall,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Construction Site,Antonio Wells
+SAFE-0367,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Moderate,Resolved,Construction Site,Emily Blake
+SAFE-0368,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,High,Resolved,Storage Area,Kirk Greene
+SAFE-0369,Emergency Alarm,Worker observed without proper PPE near the assembly section.,High,In Progress,Warehouse,Michael Dunn
+SAFE-0370,Helmet Missing,Chemical spill reported near storage containers.,Low,In Progress,Assembly Line,Mary Crawford
+SAFE-0371,Worker Fall,Safety helmet violation identified in construction area.,Moderate,Resolved,Warehouse,Anthony Dean
+SAFE-0372,Electrical Hazard,Safety helmet violation identified in construction area.,Low,Open,Construction Site,Justin Lee
+SAFE-0373,Worker Fall,Chemical spill reported near storage containers.,Low,In Progress,Factory Floor,Tyler Salazar
+SAFE-0374,Helmet Missing,Protective gloves were not used during equipment handling.,Low,In Progress,Loading Dock,Dorothy Simon
+SAFE-0375,Chemical Spill,Unsafe activity detected close to heavy machinery.,Low,In Progress,Construction Site,David Maynard
+SAFE-0376,Emergency Alarm,Machine produced abnormal sounds during operation.,Low,Resolved,Loading Dock,Katherine Holden
+SAFE-0377,Helmet Missing,Machine produced abnormal sounds during operation.,Low,Open,Construction Site,Patricia Hardy
+SAFE-0378,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Assembly Line,Lisa Gutierrez
+SAFE-0379,Slippery Floor,Worker reported difficulty breathing due to dust exposure.,Low,Open,Construction Site,Michael Medina
+SAFE-0380,Helmet Missing,Employee entered a restricted zone without authorization.,Low,Open,Loading Dock,Francisco Summers
+SAFE-0381,Worker Fall,Chemical spill reported near storage containers.,Moderate,Open,Storage Area,Autumn Nichols
+SAFE-0382,Mask Missing,Safety helmet violation identified in construction area.,Low,Resolved,Loading Dock,Kenneth Buckley
+SAFE-0383,Restricted Area Entry,Chemical spill reported near storage containers.,High,Open,Warehouse,Brian Tran
+SAFE-0384,Worker Fall,Emergency alarm triggered in the production area.,Moderate,Resolved,Loading Dock,Dr. Eileen Short DVM
+SAFE-0385,Restricted Area Entry,Employee entered a restricted zone without authorization.,High,Open,Loading Dock,Shawn Young
+SAFE-0386,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Low,Resolved,Loading Dock,David Dean
+SAFE-0387,Slippery Floor,Chemical spill reported near storage containers.,High,In Progress,Warehouse,Terri Warner
+SAFE-0388,Electrical Hazard,Employee entered a restricted zone without authorization.,Moderate,Open,Storage Area,Danielle Williams
+SAFE-0389,Restricted Area Entry,Emergency alarm triggered in the production area.,Moderate,In Progress,Assembly Line,John Pena
+SAFE-0390,Unsafe Machine Interaction,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Storage Area,John Ellison
+SAFE-0391,Slippery Floor,Unsafe activity detected close to heavy machinery.,Low,Resolved,Storage Area,Donald Sanchez
+SAFE-0392,Helmet Missing,Chemical spill reported near storage containers.,Low,Resolved,Warehouse,Adam King
+SAFE-0393,Gloves Not Worn,Employee entered a restricted zone without authorization.,Low,In Progress,Warehouse,Thomas Kaufman
+SAFE-0394,Emergency Alarm,Unsafe activity detected close to heavy machinery.,Low,In Progress,Loading Dock,Mary Evans
+SAFE-0395,Mask Missing,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Storage Area,Ryan Nguyen
+SAFE-0396,Chemical Spill,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Storage Area,Christopher Hunter
+SAFE-0397,Chemical Spill,Protective gloves were not used during equipment handling.,High,In Progress,Loading Dock,Joshua Perry
+SAFE-0398,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,High,Open,Warehouse,Kimberly Pugh
+SAFE-0399,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Low,Open,Factory Floor,Amanda Watson
+SAFE-0400,Mask Missing,Chemical spill reported near storage containers.,Low,Open,Warehouse,Darren Berger
+SAFE-0401,Emergency Alarm,Chemical spill reported near storage containers.,Low,Open,Warehouse,Kristen Kim
+SAFE-0402,Helmet Missing,Safety helmet violation identified in construction area.,Moderate,In Progress,Storage Area,Heather Harrison DVM
+SAFE-0403,Emergency Alarm,Machine produced abnormal sounds during operation.,Moderate,Resolved,Construction Site,Raymond Weaver
+SAFE-0404,Chemical Spill,Machine produced abnormal sounds during operation.,High,Open,Loading Dock,Ashley Stewart
+SAFE-0405,Chemical Spill,Worker observed without proper PPE near the assembly section.,High,In Progress,Construction Site,Sarah Turner
+SAFE-0406,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,In Progress,Storage Area,Cheryl Esparza
+SAFE-0407,Electrical Hazard,Chemical spill reported near storage containers.,Low,Open,Factory Floor,Timothy Ross
+SAFE-0408,Restricted Area Entry,Safety helmet violation identified in construction area.,Low,Open,Storage Area,Angela Smith
+SAFE-0409,Emergency Alarm,Employee entered a restricted zone without authorization.,High,Open,Construction Site,William Smith
+SAFE-0410,Emergency Alarm,Protective gloves were not used during equipment handling.,Moderate,Open,Factory Floor,Ryan Pugh
+SAFE-0411,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Warehouse,Christopher Tate
+SAFE-0412,Worker Fall,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Loading Dock,Marvin Thompson
+SAFE-0413,Emergency Alarm,Safety helmet violation identified in construction area.,High,Resolved,Loading Dock,Kenneth Ingram
+SAFE-0414,Chemical Spill,Safety helmet violation identified in construction area.,High,In Progress,Loading Dock,Janet Rangel
+SAFE-0415,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,High,Resolved,Loading Dock,David Boyer DVM
+SAFE-0416,Gloves Not Worn,Employee entered a restricted zone without authorization.,Low,Resolved,Factory Floor,Eric Kramer
+SAFE-0417,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Factory Floor,Mary Garcia
+SAFE-0418,Slippery Floor,Protective gloves were not used during equipment handling.,Low,Resolved,Factory Floor,Natalie Wilkins
+SAFE-0419,Restricted Area Entry,Protective gloves were not used during equipment handling.,Moderate,Open,Loading Dock,Kenneth Bishop
+SAFE-0420,Electrical Hazard,Safety helmet violation identified in construction area.,Low,Resolved,Storage Area,Justin Davenport
+SAFE-0421,Unsafe Machine Interaction,Worker slipped due to wet flooring near the warehouse.,High,Open,Construction Site,Dan Daniels
+SAFE-0422,Mask Missing,Worker observed without proper PPE near the assembly section.,Low,Resolved,Loading Dock,Aimee Douglas
+SAFE-0423,Emergency Alarm,Worker observed without proper PPE near the assembly section.,High,Open,Construction Site,Rebekah Baxter
+SAFE-0424,Restricted Area Entry,Safety helmet violation identified in construction area.,Moderate,In Progress,Assembly Line,Laurie Price
+SAFE-0425,Electrical Hazard,Protective gloves were not used during equipment handling.,High,Open,Loading Dock,John Hall
+SAFE-0426,Chemical Spill,Employee entered a restricted zone without authorization.,Moderate,Resolved,Assembly Line,Erica Thomas
+SAFE-0427,Gloves Not Worn,Machine produced abnormal sounds during operation.,Low,In Progress,Construction Site,Rhonda Harrell
+SAFE-0428,Chemical Spill,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Loading Dock,Samantha Blackburn
+SAFE-0429,Helmet Missing,Machine produced abnormal sounds during operation.,High,In Progress,Factory Floor,Douglas Harris
+SAFE-0430,Mask Missing,Worker observed without proper PPE near the assembly section.,Moderate,Open,Factory Floor,Christine Young MD
+SAFE-0431,Unsafe Machine Interaction,Worker reported difficulty breathing due to dust exposure.,Low,Open,Loading Dock,Dominique Hill
+SAFE-0432,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,Low,In Progress,Construction Site,Michelle Swanson
+SAFE-0433,Emergency Alarm,Safety helmet violation identified in construction area.,Low,In Progress,Loading Dock,Donna Novak
+SAFE-0434,Gloves Not Worn,Protective gloves were not used during equipment handling.,Low,In Progress,Assembly Line,Brian Clark
+SAFE-0435,Electrical Hazard,Protective gloves were not used during equipment handling.,Low,Resolved,Storage Area,James Duke
+SAFE-0436,Emergency Alarm,Employee entered a restricted zone without authorization.,High,Resolved,Construction Site,Ruben Gallegos
+SAFE-0437,Slippery Floor,Worker reported difficulty breathing due to dust exposure.,Low,Resolved,Warehouse,Matthew Shannon
+SAFE-0438,Worker Fall,Unsafe activity detected close to heavy machinery.,High,In Progress,Factory Floor,Nancy English
+SAFE-0439,Chemical Spill,Unsafe activity detected close to heavy machinery.,Low,Resolved,Warehouse,William Benitez
+SAFE-0440,Chemical Spill,Employee entered a restricted zone without authorization.,Moderate,Open,Assembly Line,James Miller PhD
+SAFE-0441,Mask Missing,Protective gloves were not used during equipment handling.,Moderate,Open,Construction Site,Donna Stanley
+SAFE-0442,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,Low,In Progress,Assembly Line,Michael Terrell
+SAFE-0443,Worker Fall,Safety helmet violation identified in construction area.,Moderate,In Progress,Construction Site,Brianna Riddle
+SAFE-0444,Chemical Spill,Unsafe activity detected close to heavy machinery.,High,In Progress,Warehouse,Nancy Arnold
+SAFE-0445,Emergency Alarm,Worker observed without proper PPE near the assembly section.,Low,In Progress,Factory Floor,Jose Young
+SAFE-0446,Worker Fall,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Factory Floor,Jesus Sanchez
+SAFE-0447,Worker Fall,Chemical spill reported near storage containers.,Low,Open,Construction Site,Susan Love
+SAFE-0448,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Low,Open,Construction Site,Sandra Warner
+SAFE-0449,Restricted Area Entry,Machine produced abnormal sounds during operation.,Low,In Progress,Storage Area,Anita Hall DVM
+SAFE-0450,Gloves Not Worn,Employee entered a restricted zone without authorization.,Moderate,In Progress,Loading Dock,Mrs. Nicole Miller
+SAFE-0451,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,Low,Open,Loading Dock,Mrs. Lisa Johnson MD
+SAFE-0452,Emergency Alarm,Emergency alarm triggered in the production area.,Low,Resolved,Loading Dock,Claire Luna
+SAFE-0453,Gloves Not Worn,Chemical spill reported near storage containers.,Low,Open,Assembly Line,Samantha Barber
+SAFE-0454,Restricted Area Entry,Chemical spill reported near storage containers.,Low,In Progress,Storage Area,Michael Brown MD
+SAFE-0455,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Moderate,Resolved,Warehouse,Richard Holt
+SAFE-0456,Emergency Alarm,Worker observed without proper PPE near the assembly section.,High,Open,Assembly Line,Molly Dunn
+SAFE-0457,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Loading Dock,Krystal Mitchell
+SAFE-0458,Restricted Area Entry,Chemical spill reported near storage containers.,Low,Resolved,Construction Site,Scott Castro
+SAFE-0459,Helmet Missing,Protective gloves were not used during equipment handling.,High,In Progress,Construction Site,Michelle Bradley
+SAFE-0460,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Low,Open,Warehouse,Julie Roman
+SAFE-0461,Unsafe Machine Interaction,Unsafe activity detected close to heavy machinery.,Low,Resolved,Construction Site,Lacey Brown MD
+SAFE-0462,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,Low,Open,Storage Area,Edwin Ramos
+SAFE-0463,Chemical Spill,Employee entered a restricted zone without authorization.,High,In Progress,Assembly Line,Brandy Newman
+SAFE-0464,Emergency Alarm,Employee entered a restricted zone without authorization.,Moderate,Open,Construction Site,Andrea Tran
+SAFE-0465,Helmet Missing,Machine produced abnormal sounds during operation.,High,In Progress,Assembly Line,Stephen Walker
+SAFE-0466,Chemical Spill,Emergency alarm triggered in the production area.,High,Resolved,Warehouse,Anthony Wright
+SAFE-0467,Helmet Missing,Chemical spill reported near storage containers.,Low,In Progress,Warehouse,Robert Russell
+SAFE-0468,Gloves Not Worn,Machine produced abnormal sounds during operation.,Low,Resolved,Assembly Line,Danielle Black
+SAFE-0469,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Assembly Line,Ian Holder
+SAFE-0470,Emergency Alarm,Emergency alarm triggered in the production area.,Moderate,Open,Loading Dock,Teresa Knight
+SAFE-0471,Slippery Floor,Worker reported difficulty breathing due to dust exposure.,Low,Open,Assembly Line,Michele Hull
+SAFE-0472,Emergency Alarm,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Construction Site,Katherine Wilson
+SAFE-0473,Emergency Alarm,Chemical spill reported near storage containers.,Moderate,Resolved,Factory Floor,Anna Torres
+SAFE-0474,Electrical Hazard,Emergency alarm triggered in the production area.,High,In Progress,Loading Dock,Madeline Sullivan
+SAFE-0475,Slippery Floor,Machine produced abnormal sounds during operation.,Moderate,Resolved,Storage Area,Robert Gray
+SAFE-0476,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,High,In Progress,Construction Site,Robert Watson
+SAFE-0477,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Assembly Line,Edward King
+SAFE-0478,Mask Missing,Worker slipped due to wet flooring near the warehouse.,Low,Open,Warehouse,Heather Morgan
+SAFE-0479,Helmet Missing,Emergency alarm triggered in the production area.,Low,In Progress,Factory Floor,Pamela Sullivan
+SAFE-0480,Worker Fall,Safety helmet violation identified in construction area.,High,Resolved,Warehouse,Erin Bridges
+SAFE-0481,Chemical Spill,Chemical spill reported near storage containers.,High,In Progress,Loading Dock,Craig Vance
+SAFE-0482,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,Low,Open,Storage Area,Jennifer Gutierrez
+SAFE-0483,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Storage Area,Eric Holmes
+SAFE-0484,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Low,In Progress,Assembly Line,Deborah Lewis
+SAFE-0485,Restricted Area Entry,Employee entered a restricted zone without authorization.,Low,Resolved,Warehouse,Lauren Evans
+SAFE-0486,Gloves Not Worn,Employee entered a restricted zone without authorization.,Low,Resolved,Construction Site,Margaret Martin
+SAFE-0487,Gloves Not Worn,Chemical spill reported near storage containers.,Low,Open,Factory Floor,Jared Nguyen
+SAFE-0488,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,Low,Open,Loading Dock,Robert Schaefer
+SAFE-0489,Slippery Floor,Worker observed without proper PPE near the assembly section.,Low,Open,Construction Site,Paige Johnson
+SAFE-0490,Chemical Spill,Unsafe activity detected close to heavy machinery.,High,Open,Factory Floor,Douglas Smith
+SAFE-0491,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,High,Open,Factory Floor,Eric Medina
+SAFE-0492,Worker Fall,Chemical spill reported near storage containers.,Moderate,Open,Factory Floor,Morgan Cox
+SAFE-0493,Slippery Floor,Protective gloves were not used during equipment handling.,Low,Resolved,Loading Dock,Jessica Spencer
+SAFE-0494,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,Resolved,Factory Floor,Rachel Martin
+SAFE-0495,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Loading Dock,David Delacruz
+SAFE-0496,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Warehouse,Kevin Soto
+SAFE-0497,Electrical Hazard,Machine produced abnormal sounds during operation.,Low,Open,Warehouse,Frank Sullivan
+SAFE-0498,Electrical Hazard,Chemical spill reported near storage containers.,Moderate,Open,Loading Dock,Michael Martinez
+SAFE-0499,Slippery Floor,Worker observed without proper PPE near the assembly section.,High,Resolved,Construction Site,Michael Carlson
+SAFE-0500,Chemical Spill,Safety helmet violation identified in construction area.,Low,Open,Factory Floor,Jesse Johnson
+SAFE-0501,Worker Fall,Emergency alarm triggered in the production area.,Low,In Progress,Storage Area,Kim Beck
+SAFE-0502,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Low,Resolved,Assembly Line,Ashley Kim
+SAFE-0503,Restricted Area Entry,Chemical spill reported near storage containers.,Moderate,Resolved,Assembly Line,Mike Trujillo
+SAFE-0504,Worker Fall,Employee entered a restricted zone without authorization.,Moderate,In Progress,Loading Dock,Melvin Hamilton
+SAFE-0505,Gloves Not Worn,Emergency alarm triggered in the production area.,High,Open,Loading Dock,Jocelyn Conner
+SAFE-0506,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Assembly Line,Todd Hawkins
+SAFE-0507,Helmet Missing,Chemical spill reported near storage containers.,Low,Open,Loading Dock,Samantha Roberts
+SAFE-0508,Emergency Alarm,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Factory Floor,Madison Morgan
+SAFE-0509,Restricted Area Entry,Safety helmet violation identified in construction area.,Low,Resolved,Assembly Line,William Moore
+SAFE-0510,Slippery Floor,Chemical spill reported near storage containers.,High,Resolved,Loading Dock,Frank Spencer
+SAFE-0511,Slippery Floor,Employee entered a restricted zone without authorization.,Low,Open,Storage Area,Michelle Foley
+SAFE-0512,Helmet Missing,Protective gloves were not used during equipment handling.,Moderate,Resolved,Storage Area,Danielle Kline
+SAFE-0513,Helmet Missing,Protective gloves were not used during equipment handling.,High,Resolved,Construction Site,Erica Wagner
+SAFE-0514,Chemical Spill,Unsafe activity detected close to heavy machinery.,Moderate,Open,Assembly Line,Christopher Solis
+SAFE-0515,Mask Missing,Protective gloves were not used during equipment handling.,Low,Open,Factory Floor,Kyle Conway
+SAFE-0516,Slippery Floor,Employee entered a restricted zone without authorization.,Low,Resolved,Factory Floor,Debra Salazar
+SAFE-0517,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,High,Resolved,Factory Floor,Stephen Wall
+SAFE-0518,Worker Fall,Emergency alarm triggered in the production area.,Moderate,Resolved,Construction Site,Kyle Rivas
+SAFE-0519,Worker Fall,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Assembly Line,Theresa Scott
+SAFE-0520,Chemical Spill,Worker observed without proper PPE near the assembly section.,High,Open,Storage Area,Edward Martinez
+SAFE-0521,Helmet Missing,Chemical spill reported near storage containers.,Moderate,Open,Warehouse,Ashley Love
+SAFE-0522,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Storage Area,Terry Thompson
+SAFE-0523,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Factory Floor,Peter Schmidt
+SAFE-0524,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Low,In Progress,Warehouse,Gary Bell
+SAFE-0525,Helmet Missing,Safety helmet violation identified in construction area.,High,In Progress,Storage Area,Mark Andrade
+SAFE-0526,Emergency Alarm,Protective gloves were not used during equipment handling.,Moderate,Open,Storage Area,Norma Hoffman
+SAFE-0527,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Low,Open,Loading Dock,Shannon Keith
+SAFE-0528,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,Low,Open,Loading Dock,Patty Baldwin
+SAFE-0529,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Warehouse,Matthew Rowe
+SAFE-0530,Helmet Missing,Worker observed without proper PPE near the assembly section.,Low,Resolved,Factory Floor,Christopher Crawford
+SAFE-0531,Slippery Floor,Worker reported difficulty breathing due to dust exposure.,Low,Open,Factory Floor,Joshua Miller
+SAFE-0532,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,High,Resolved,Assembly Line,Brittany Miller
+SAFE-0533,Worker Fall,Emergency alarm triggered in the production area.,Moderate,In Progress,Warehouse,Michele Klein
+SAFE-0534,Unsafe Machine Interaction,Chemical spill reported near storage containers.,High,Open,Loading Dock,Joshua Mcclain
+SAFE-0535,Slippery Floor,Unsafe activity detected close to heavy machinery.,High,Open,Warehouse,Savannah Reed
+SAFE-0536,Chemical Spill,Emergency alarm triggered in the production area.,High,Open,Loading Dock,Molly Aguilar
+SAFE-0537,Helmet Missing,Chemical spill reported near storage containers.,Moderate,In Progress,Warehouse,Ricky Williams
+SAFE-0538,Chemical Spill,Machine produced abnormal sounds during operation.,High,Resolved,Construction Site,Joel Lucero
+SAFE-0539,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,Low,Resolved,Factory Floor,Renee Campos
+SAFE-0540,Gloves Not Worn,Emergency alarm triggered in the production area.,High,Resolved,Loading Dock,Jessica Porter
+SAFE-0541,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,Low,Resolved,Loading Dock,Anna Mcintyre
+SAFE-0542,Chemical Spill,Safety helmet violation identified in construction area.,Low,In Progress,Factory Floor,Lisa Smith
+SAFE-0543,Slippery Floor,Machine produced abnormal sounds during operation.,Low,Open,Construction Site,Andre Patterson
+SAFE-0544,Restricted Area Entry,Employee entered a restricted zone without authorization.,Moderate,Open,Construction Site,Michael Parker
+SAFE-0545,Chemical Spill,Unsafe activity detected close to heavy machinery.,Moderate,Open,Construction Site,Michael Bush
+SAFE-0546,Worker Fall,Chemical spill reported near storage containers.,Moderate,Resolved,Construction Site,Kimberly Franklin
+SAFE-0547,Slippery Floor,Protective gloves were not used during equipment handling.,Low,In Progress,Construction Site,Monica Harris
+SAFE-0548,Worker Fall,Emergency alarm triggered in the production area.,Moderate,In Progress,Factory Floor,Jason Colon
+SAFE-0549,Chemical Spill,Worker observed without proper PPE near the assembly section.,High,Open,Construction Site,Sandra Jones MD
+SAFE-0550,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Factory Floor,Mark Rivas
+SAFE-0551,Gloves Not Worn,Chemical spill reported near storage containers.,Low,In Progress,Factory Floor,Brian Green
+SAFE-0552,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,High,Open,Storage Area,Robert Bailey
+SAFE-0553,Mask Missing,Machine produced abnormal sounds during operation.,High,In Progress,Factory Floor,Paige Wong
+SAFE-0554,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,High,Resolved,Storage Area,Kathy Miller
+SAFE-0555,Gloves Not Worn,Employee entered a restricted zone without authorization.,Low,Open,Factory Floor,Andrea Wilson
+SAFE-0556,Worker Fall,Protective gloves were not used during equipment handling.,High,In Progress,Assembly Line,Christy Rodriguez
+SAFE-0557,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,Resolved,Loading Dock,John Oliver
+SAFE-0558,Helmet Missing,Emergency alarm triggered in the production area.,Moderate,In Progress,Construction Site,David Smith
+SAFE-0559,Chemical Spill,Employee entered a restricted zone without authorization.,High,In Progress,Factory Floor,Sheila Hammond
+SAFE-0560,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Assembly Line,April Harmon
+SAFE-0561,Emergency Alarm,Unsafe activity detected close to heavy machinery.,High,In Progress,Warehouse,Sharon Henderson
+SAFE-0562,Restricted Area Entry,Machine produced abnormal sounds during operation.,High,In Progress,Storage Area,Katherine Alexander
+SAFE-0563,Helmet Missing,Safety helmet violation identified in construction area.,Moderate,Open,Factory Floor,Michael Morales
+SAFE-0564,Electrical Hazard,Protective gloves were not used during equipment handling.,High,In Progress,Factory Floor,Tara Ward
+SAFE-0565,Mask Missing,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Construction Site,Kimberly Jones
+SAFE-0566,Chemical Spill,Employee entered a restricted zone without authorization.,Moderate,Open,Assembly Line,Charles Sullivan
+SAFE-0567,Emergency Alarm,Employee entered a restricted zone without authorization.,Moderate,Open,Warehouse,Gary Bradley
+SAFE-0568,Emergency Alarm,Worker observed without proper PPE near the assembly section.,High,In Progress,Warehouse,Christopher Smith
+SAFE-0569,Restricted Area Entry,Worker observed without proper PPE near the assembly section.,Low,In Progress,Storage Area,Gary Brown
+SAFE-0570,Mask Missing,Chemical spill reported near storage containers.,Low,Open,Storage Area,Katherine Chen
+SAFE-0571,Mask Missing,Unsafe activity detected close to heavy machinery.,Low,Open,Loading Dock,Rhonda Ryan
+SAFE-0572,Worker Fall,Chemical spill reported near storage containers.,High,In Progress,Storage Area,Morgan Brown
+SAFE-0573,Electrical Hazard,Safety helmet violation identified in construction area.,Low,In Progress,Warehouse,Ellen Gregory
+SAFE-0574,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Loading Dock,Lauren Barnett
+SAFE-0575,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,High,Open,Factory Floor,Phyllis Morales
+SAFE-0576,Chemical Spill,Emergency alarm triggered in the production area.,High,Open,Warehouse,Aimee Graham
+SAFE-0577,Emergency Alarm,Worker observed without proper PPE near the assembly section.,Low,Resolved,Assembly Line,Katrina Aguilar
+SAFE-0578,Slippery Floor,Emergency alarm triggered in the production area.,Low,Resolved,Warehouse,Darlene Stanley
+SAFE-0579,Emergency Alarm,Chemical spill reported near storage containers.,High,Open,Loading Dock,Patricia Taylor
+SAFE-0580,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,Low,In Progress,Loading Dock,Sharon Shelton
+SAFE-0581,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Warehouse,Tyler Reynolds
+SAFE-0582,Chemical Spill,Safety helmet violation identified in construction area.,Low,In Progress,Warehouse,Rachel Riggs
+SAFE-0583,Slippery Floor,Worker reported difficulty breathing due to dust exposure.,High,Open,Assembly Line,Dana Thompson
+SAFE-0584,Chemical Spill,Machine produced abnormal sounds during operation.,Moderate,Open,Warehouse,Randy Wright
+SAFE-0585,Restricted Area Entry,Safety helmet violation identified in construction area.,Moderate,Resolved,Storage Area,Tyler Gonzalez
+SAFE-0586,Electrical Hazard,Machine produced abnormal sounds during operation.,High,Open,Construction Site,David Hicks
+SAFE-0587,Worker Fall,Worker reported difficulty breathing due to dust exposure.,High,Open,Loading Dock,Whitney George
+SAFE-0588,Helmet Missing,Emergency alarm triggered in the production area.,Moderate,Open,Warehouse,Amy Love
+SAFE-0589,Gloves Not Worn,Machine produced abnormal sounds during operation.,High,Open,Construction Site,Sheila Meyer
+SAFE-0590,Slippery Floor,Chemical spill reported near storage containers.,Low,Open,Warehouse,James Ortiz
+SAFE-0591,Helmet Missing,Chemical spill reported near storage containers.,Moderate,In Progress,Warehouse,Benjamin Mitchell
+SAFE-0592,Unsafe Machine Interaction,Unsafe activity detected close to heavy machinery.,Low,Resolved,Loading Dock,Nicole Robertson
+SAFE-0593,Chemical Spill,Emergency alarm triggered in the production area.,Low,Open,Factory Floor,Robert Bowman
+SAFE-0594,Worker Fall,Chemical spill reported near storage containers.,High,Resolved,Loading Dock,Katie Romero
+SAFE-0595,Emergency Alarm,Machine produced abnormal sounds during operation.,Low,Open,Storage Area,Drew Barnes
+SAFE-0596,Restricted Area Entry,Protective gloves were not used during equipment handling.,Moderate,Open,Assembly Line,Jamie Decker
+SAFE-0597,Helmet Missing,Machine produced abnormal sounds during operation.,Moderate,Open,Assembly Line,Kimberly Lane
+SAFE-0598,Helmet Missing,Machine produced abnormal sounds during operation.,Low,In Progress,Loading Dock,Stacy Hines
+SAFE-0599,Helmet Missing,Emergency alarm triggered in the production area.,Moderate,Open,Factory Floor,Kristin Robbins
+SAFE-0600,Electrical Hazard,Chemical spill reported near storage containers.,High,Resolved,Loading Dock,Michael Zuniga
+SAFE-0601,Restricted Area Entry,Safety helmet violation identified in construction area.,Low,In Progress,Loading Dock,Julie Gutierrez
+SAFE-0602,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Construction Site,William Mckenzie
+SAFE-0603,Electrical Hazard,Emergency alarm triggered in the production area.,Moderate,In Progress,Warehouse,Dr. Susan Butler
+SAFE-0604,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Construction Site,Olivia Davis
+SAFE-0605,Chemical Spill,Protective gloves were not used during equipment handling.,Moderate,Resolved,Warehouse,Mathew Mueller
+SAFE-0606,Mask Missing,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Loading Dock,Elizabeth Johnson
+SAFE-0607,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Low,Open,Assembly Line,Timothy Kennedy
+SAFE-0608,Slippery Floor,Employee entered a restricted zone without authorization.,Low,In Progress,Assembly Line,Dominic Leonard
+SAFE-0609,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,Moderate,Open,Storage Area,Gerald Thomas
+SAFE-0610,Emergency Alarm,Chemical spill reported near storage containers.,Low,Resolved,Assembly Line,Alex Holt
+SAFE-0611,Mask Missing,Worker observed without proper PPE near the assembly section.,Low,Resolved,Factory Floor,Marcus Gibson
+SAFE-0612,Helmet Missing,Employee entered a restricted zone without authorization.,Low,Open,Construction Site,Jeffery Burns
+SAFE-0613,Slippery Floor,Worker observed without proper PPE near the assembly section.,Moderate,Open,Factory Floor,Carol Fox
+SAFE-0614,Chemical Spill,Unsafe activity detected close to heavy machinery.,Low,Open,Warehouse,Elizabeth Byrd
+SAFE-0615,Helmet Missing,Emergency alarm triggered in the production area.,High,Resolved,Factory Floor,Timothy Smith
+SAFE-0616,Electrical Hazard,Emergency alarm triggered in the production area.,Moderate,Open,Warehouse,Stacey Crawford
+SAFE-0617,Restricted Area Entry,Chemical spill reported near storage containers.,High,Open,Assembly Line,Marissa Wilson
+SAFE-0618,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Loading Dock,Katherine Lawrence
+SAFE-0619,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,Low,In Progress,Construction Site,Amanda Weaver
+SAFE-0620,Emergency Alarm,Unsafe activity detected close to heavy machinery.,Low,Open,Storage Area,Lisa Hicks
+SAFE-0621,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Storage Area,Nancy Sparks
+SAFE-0622,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Loading Dock,Michael Washington
+SAFE-0623,Gloves Not Worn,Safety helmet violation identified in construction area.,High,In Progress,Construction Site,Kevin Lutz
+SAFE-0624,Electrical Hazard,Safety helmet violation identified in construction area.,High,Open,Warehouse,John Silva
+SAFE-0625,Unsafe Machine Interaction,Chemical spill reported near storage containers.,High,Resolved,Factory Floor,Anthony Mills
+SAFE-0626,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Assembly Line,Ryan Ayala
+SAFE-0627,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Construction Site,Laurie Campbell
+SAFE-0628,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Low,Resolved,Construction Site,Carlos Medina
+SAFE-0629,Mask Missing,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Factory Floor,Amy Briggs
+SAFE-0630,Mask Missing,Worker observed without proper PPE near the assembly section.,Moderate,Open,Warehouse,Marcus Martin
+SAFE-0631,Mask Missing,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Assembly Line,Phillip Coleman
+SAFE-0632,Slippery Floor,Worker observed without proper PPE near the assembly section.,Low,In Progress,Storage Area,Chris Mathews
+SAFE-0633,Electrical Hazard,Employee entered a restricted zone without authorization.,High,Open,Warehouse,Sarah Gordon
+SAFE-0634,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Construction Site,Amy Olson
+SAFE-0635,Slippery Floor,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Factory Floor,Jessica Alexander
+SAFE-0636,Slippery Floor,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Factory Floor,Steven Ewing
+SAFE-0637,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Storage Area,Victor Lee
+SAFE-0638,Slippery Floor,Protective gloves were not used during equipment handling.,Low,In Progress,Assembly Line,Timothy Miller
+SAFE-0639,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Low,Open,Loading Dock,Kathleen Pierce
+SAFE-0640,Gloves Not Worn,Chemical spill reported near storage containers.,High,Open,Construction Site,Lisa Pope
+SAFE-0641,Helmet Missing,Safety helmet violation identified in construction area.,Moderate,Open,Assembly Line,Andrea Ward
+SAFE-0642,Worker Fall,Emergency alarm triggered in the production area.,Low,In Progress,Factory Floor,Jessica Wells
+SAFE-0643,Chemical Spill,Worker observed without proper PPE near the assembly section.,Moderate,Open,Construction Site,Peter Marshall
+SAFE-0644,Gloves Not Worn,Machine produced abnormal sounds during operation.,Low,Resolved,Loading Dock,Shelia Reid
+SAFE-0645,Chemical Spill,Chemical spill reported near storage containers.,High,In Progress,Warehouse,David Boone
+SAFE-0646,Slippery Floor,Emergency alarm triggered in the production area.,High,Resolved,Warehouse,Megan Moreno
+SAFE-0647,Slippery Floor,Machine produced abnormal sounds during operation.,High,Resolved,Loading Dock,William Bautista
+SAFE-0648,Chemical Spill,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Warehouse,Valerie Werner
+SAFE-0649,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,Low,Open,Construction Site,Henry Griffith
+SAFE-0650,Helmet Missing,Safety helmet violation identified in construction area.,Low,In Progress,Loading Dock,Pamela Allen
+SAFE-0651,Gloves Not Worn,Safety helmet violation identified in construction area.,Moderate,In Progress,Factory Floor,Margaret Donovan
+SAFE-0652,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Storage Area,Anthony Blevins
+SAFE-0653,Worker Fall,Protective gloves were not used during equipment handling.,Moderate,In Progress,Warehouse,Sharon Tran
+SAFE-0654,Unsafe Machine Interaction,Unsafe activity detected close to heavy machinery.,High,In Progress,Warehouse,Raven Moran
+SAFE-0655,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,Low,In Progress,Warehouse,Mary Brown
+SAFE-0656,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,High,Open,Construction Site,Joshua Becker
+SAFE-0657,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Low,Open,Construction Site,Deborah Lewis
+SAFE-0658,Chemical Spill,Employee entered a restricted zone without authorization.,Moderate,Resolved,Warehouse,Darrell Zavala
+SAFE-0659,Mask Missing,Protective gloves were not used during equipment handling.,High,Resolved,Warehouse,Annette Wilson
+SAFE-0660,Restricted Area Entry,Employee entered a restricted zone without authorization.,High,Resolved,Assembly Line,Sandra Jenkins
+SAFE-0661,Slippery Floor,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Factory Floor,Carlos Howard
+SAFE-0662,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,High,Open,Warehouse,Amber Jackson
+SAFE-0663,Unsafe Machine Interaction,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Loading Dock,Kathryn Barnes
+SAFE-0664,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,Low,Open,Loading Dock,Debbie Yang
+SAFE-0665,Emergency Alarm,Worker observed without proper PPE near the assembly section.,Low,Open,Construction Site,Jessica Williams
+SAFE-0666,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Moderate,Open,Construction Site,Erin Mendoza
+SAFE-0667,Chemical Spill,Worker observed without proper PPE near the assembly section.,High,In Progress,Storage Area,Heather Lynch
+SAFE-0668,Emergency Alarm,Chemical spill reported near storage containers.,Low,Resolved,Warehouse,Curtis Beard
+SAFE-0669,Helmet Missing,Protective gloves were not used during equipment handling.,Moderate,Open,Assembly Line,Lisa Scott
+SAFE-0670,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Storage Area,Nicole Morgan
+SAFE-0671,Mask Missing,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Assembly Line,Alexis Clarke
+SAFE-0672,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Assembly Line,Russell Martin III
+SAFE-0673,Helmet Missing,Emergency alarm triggered in the production area.,Low,In Progress,Warehouse,Edward Santiago
+SAFE-0674,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Low,Resolved,Storage Area,Christine Jones
+SAFE-0675,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,High,Resolved,Construction Site,Jesus Fuller
+SAFE-0676,Gloves Not Worn,Employee entered a restricted zone without authorization.,Low,Resolved,Storage Area,Richard Mcconnell
+SAFE-0677,Chemical Spill,Machine produced abnormal sounds during operation.,Low,Resolved,Warehouse,Natalie Myers
+SAFE-0678,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,Open,Loading Dock,Charles Garcia
+SAFE-0679,Electrical Hazard,Emergency alarm triggered in the production area.,Moderate,Resolved,Construction Site,Kevin Allen
+SAFE-0680,Gloves Not Worn,Emergency alarm triggered in the production area.,Low,In Progress,Assembly Line,Mark Cardenas
+SAFE-0681,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Loading Dock,Jason Wilson
+SAFE-0682,Restricted Area Entry,Employee entered a restricted zone without authorization.,Moderate,In Progress,Storage Area,Megan Conrad
+SAFE-0683,Restricted Area Entry,Worker observed without proper PPE near the assembly section.,Low,Resolved,Construction Site,Jason Garcia
+SAFE-0684,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Loading Dock,Bethany Hodges
+SAFE-0685,Restricted Area Entry,Emergency alarm triggered in the production area.,Low,Resolved,Warehouse,Alexander Myers
+SAFE-0686,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Moderate,In Progress,Storage Area,Jessica Mclaughlin
+SAFE-0687,Mask Missing,Chemical spill reported near storage containers.,Low,In Progress,Construction Site,Justin Williams
+SAFE-0688,Worker Fall,Safety helmet violation identified in construction area.,High,In Progress,Assembly Line,Deborah Harris
+SAFE-0689,Emergency Alarm,Worker observed without proper PPE near the assembly section.,Low,Open,Factory Floor,Michael Cook
+SAFE-0690,Gloves Not Worn,Machine produced abnormal sounds during operation.,High,Resolved,Construction Site,Michelle Ross
+SAFE-0691,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,Open,Warehouse,Anthony Murray
+SAFE-0692,Gloves Not Worn,Safety helmet violation identified in construction area.,High,In Progress,Construction Site,Daniel Obrien
+SAFE-0693,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,High,Open,Assembly Line,Lisa Scott
+SAFE-0694,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,Low,In Progress,Construction Site,Ralph Dunn
+SAFE-0695,Emergency Alarm,Chemical spill reported near storage containers.,Moderate,In Progress,Warehouse,Laura Beasley
+SAFE-0696,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,In Progress,Warehouse,Rebecca Wang
+SAFE-0697,Slippery Floor,Protective gloves were not used during equipment handling.,Low,In Progress,Warehouse,Linda Sullivan
+SAFE-0698,Mask Missing,Emergency alarm triggered in the production area.,Moderate,Resolved,Factory Floor,Sheila Snyder
+SAFE-0699,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Moderate,In Progress,Construction Site,Andrew Smith
+SAFE-0700,Mask Missing,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Loading Dock,Christopher Potter
+SAFE-0701,Electrical Hazard,Employee entered a restricted zone without authorization.,Moderate,Resolved,Warehouse,Melinda Peters
+SAFE-0702,Electrical Hazard,Chemical spill reported near storage containers.,High,Resolved,Factory Floor,Daniel Fox
+SAFE-0703,Slippery Floor,Safety helmet violation identified in construction area.,High,In Progress,Factory Floor,Tiffany Brown
+SAFE-0704,Unsafe Machine Interaction,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Factory Floor,Rachel Taylor
+SAFE-0705,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Low,Open,Assembly Line,James Rowe
+SAFE-0706,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Warehouse,Oscar Lee
+SAFE-0707,Slippery Floor,Unsafe activity detected close to heavy machinery.,High,In Progress,Assembly Line,Andrea Cook
+SAFE-0708,Chemical Spill,Safety helmet violation identified in construction area.,High,Resolved,Construction Site,Matthew Olson
+SAFE-0709,Slippery Floor,Protective gloves were not used during equipment handling.,Moderate,Resolved,Storage Area,Chad Gonzalez
+SAFE-0710,Restricted Area Entry,Emergency alarm triggered in the production area.,Moderate,Resolved,Construction Site,Nicole Johnson
+SAFE-0711,Helmet Missing,Unsafe activity detected close to heavy machinery.,High,Resolved,Construction Site,Megan Wilkins
+SAFE-0712,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Low,Resolved,Construction Site,Michael English
+SAFE-0713,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,Low,Resolved,Storage Area,Anita Gray
+SAFE-0714,Worker Fall,Machine produced abnormal sounds during operation.,Moderate,Open,Assembly Line,Michelle Berry
+SAFE-0715,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Loading Dock,Dr. Joseph Morrison
+SAFE-0716,Mask Missing,Emergency alarm triggered in the production area.,High,In Progress,Factory Floor,Eric Johnson
+SAFE-0717,Mask Missing,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Construction Site,Amanda Frederick
+SAFE-0718,Unsafe Machine Interaction,Protective gloves were not used during equipment handling.,Moderate,Open,Storage Area,Jacob Sandoval
+SAFE-0719,Gloves Not Worn,Protective gloves were not used during equipment handling.,High,Resolved,Construction Site,Casey Nelson
+SAFE-0720,Emergency Alarm,Unsafe activity detected close to heavy machinery.,Low,Resolved,Warehouse,David Perez
+SAFE-0721,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Low,Resolved,Factory Floor,Christopher Hill
+SAFE-0722,Emergency Alarm,Emergency alarm triggered in the production area.,High,In Progress,Warehouse,Preston Hatfield
+SAFE-0723,Worker Fall,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Construction Site,Devin Moore
+SAFE-0724,Emergency Alarm,Safety helmet violation identified in construction area.,Low,Open,Warehouse,Darrell Welch
+SAFE-0725,Electrical Hazard,Safety helmet violation identified in construction area.,High,Resolved,Assembly Line,Patricia Ray
+SAFE-0726,Worker Fall,Protective gloves were not used during equipment handling.,Moderate,Open,Construction Site,Michele Hill
+SAFE-0727,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Storage Area,Jonathan Rodgers
+SAFE-0728,Worker Fall,Machine produced abnormal sounds during operation.,Low,In Progress,Assembly Line,Christopher Freeman
+SAFE-0729,Emergency Alarm,Employee entered a restricted zone without authorization.,High,Open,Warehouse,Taylor Jones
+SAFE-0730,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Factory Floor,Christopher Pace
+SAFE-0731,Chemical Spill,Machine produced abnormal sounds during operation.,High,In Progress,Warehouse,Jennifer Chase
+SAFE-0732,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,In Progress,Storage Area,Lauren Edwards
+SAFE-0733,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Assembly Line,Jamie Smith
+SAFE-0734,Emergency Alarm,Emergency alarm triggered in the production area.,High,Open,Storage Area,Marcus Foster
+SAFE-0735,Gloves Not Worn,Chemical spill reported near storage containers.,Low,In Progress,Factory Floor,Rebecca Casey
+SAFE-0736,Helmet Missing,Unsafe activity detected close to heavy machinery.,Low,In Progress,Factory Floor,Thomas Moreno
+SAFE-0737,Slippery Floor,Machine produced abnormal sounds during operation.,Low,Resolved,Warehouse,Ronnie Nguyen
+SAFE-0738,Gloves Not Worn,Protective gloves were not used during equipment handling.,Moderate,In Progress,Construction Site,William Rich
+SAFE-0739,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Assembly Line,Joshua Miller
+SAFE-0740,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Low,Open,Assembly Line,Jonathan Sanders
+SAFE-0741,Electrical Hazard,Chemical spill reported near storage containers.,High,In Progress,Warehouse,Angela Oconnor
+SAFE-0742,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,Resolved,Storage Area,Jonathan Wood
+SAFE-0743,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Low,Resolved,Construction Site,Adam Stewart
+SAFE-0744,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Loading Dock,Daniel Robinson
+SAFE-0745,Slippery Floor,Employee entered a restricted zone without authorization.,Moderate,In Progress,Construction Site,Savannah Stout
+SAFE-0746,Worker Fall,Machine produced abnormal sounds during operation.,Low,Resolved,Warehouse,Judith Wright
+SAFE-0747,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,High,Open,Storage Area,Tracey Carpenter
+SAFE-0748,Slippery Floor,Chemical spill reported near storage containers.,Low,In Progress,Warehouse,Julie Ward MD
+SAFE-0749,Emergency Alarm,Protective gloves were not used during equipment handling.,Moderate,In Progress,Construction Site,Marissa Williams
+SAFE-0750,Slippery Floor,Unsafe activity detected close to heavy machinery.,Moderate,Open,Factory Floor,Robert Kerr
+SAFE-0751,Chemical Spill,Employee entered a restricted zone without authorization.,Low,Open,Factory Floor,Ashley Mccoy
+SAFE-0752,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Construction Site,Keith Garrison
+SAFE-0753,Chemical Spill,Safety helmet violation identified in construction area.,Low,Resolved,Assembly Line,Robert Webb
+SAFE-0754,Worker Fall,Employee entered a restricted zone without authorization.,Moderate,Resolved,Factory Floor,Ann Love
+SAFE-0755,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,In Progress,Factory Floor,Bradley Lopez
+SAFE-0756,Gloves Not Worn,Emergency alarm triggered in the production area.,Low,Open,Factory Floor,Alexis Dunn
+SAFE-0757,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,Low,Open,Factory Floor,Dr. Joseph Mccarty
+SAFE-0758,Electrical Hazard,Unsafe activity detected close to heavy machinery.,Low,In Progress,Construction Site,Jason Rogers
+SAFE-0759,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Assembly Line,Richard Lambert
+SAFE-0760,Helmet Missing,Unsafe activity detected close to heavy machinery.,Low,Resolved,Factory Floor,Julie Anthony
+SAFE-0761,Slippery Floor,Emergency alarm triggered in the production area.,Moderate,Open,Storage Area,Donald Gilbert
+SAFE-0762,Chemical Spill,Machine produced abnormal sounds during operation.,Low,Resolved,Storage Area,Susan Smith
+SAFE-0763,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Low,Resolved,Loading Dock,Dana Young
+SAFE-0764,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Factory Floor,Kevin Ramirez
+SAFE-0765,Mask Missing,Protective gloves were not used during equipment handling.,Low,In Progress,Loading Dock,Teresa Kemp
+SAFE-0766,Helmet Missing,Employee entered a restricted zone without authorization.,Low,Resolved,Construction Site,Kylie Wheeler
+SAFE-0767,Worker Fall,Worker slipped due to wet flooring near the warehouse.,High,Open,Assembly Line,Jesse Wright
+SAFE-0768,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Low,In Progress,Factory Floor,Levi Crawford
+SAFE-0769,Electrical Hazard,Unsafe activity detected close to heavy machinery.,High,Open,Assembly Line,Jose Reyes
+SAFE-0770,Restricted Area Entry,Protective gloves were not used during equipment handling.,High,Open,Factory Floor,Steven Doyle
+SAFE-0771,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,High,Resolved,Assembly Line,Jennifer Torres
+SAFE-0772,Mask Missing,Machine produced abnormal sounds during operation.,Moderate,Resolved,Loading Dock,Joseph Andrade
+SAFE-0773,Helmet Missing,Protective gloves were not used during equipment handling.,Moderate,In Progress,Storage Area,William Ochoa
+SAFE-0774,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Low,In Progress,Factory Floor,Antonio Mcpherson
+SAFE-0775,Helmet Missing,Employee entered a restricted zone without authorization.,Moderate,Open,Warehouse,Samantha Collins
+SAFE-0776,Unsafe Machine Interaction,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Assembly Line,Robert Simpson
+SAFE-0777,Worker Fall,Chemical spill reported near storage containers.,High,In Progress,Warehouse,Jordan Foster
+SAFE-0778,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Factory Floor,Desiree Baker
+SAFE-0779,Worker Fall,Safety helmet violation identified in construction area.,Moderate,In Progress,Warehouse,Omar Robles
+SAFE-0780,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,High,Open,Warehouse,Andrew Snyder
+SAFE-0781,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,High,Open,Construction Site,Bryan Diaz
+SAFE-0782,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,High,Resolved,Assembly Line,Jennifer Holmes
+SAFE-0783,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,In Progress,Warehouse,Jeffery Robinson
+SAFE-0784,Mask Missing,Unsafe activity detected close to heavy machinery.,Moderate,Open,Warehouse,Sheila Chang
+SAFE-0785,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Warehouse,Deborah Greene
+SAFE-0786,Electrical Hazard,Emergency alarm triggered in the production area.,High,Resolved,Construction Site,Jack Miles
+SAFE-0787,Helmet Missing,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Construction Site,Zachary Hall
+SAFE-0788,Worker Fall,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Assembly Line,Jennifer Adams
+SAFE-0789,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Low,Open,Assembly Line,Scott Garza
+SAFE-0790,Emergency Alarm,Chemical spill reported near storage containers.,High,Resolved,Storage Area,Laura Heath
+SAFE-0791,Slippery Floor,Protective gloves were not used during equipment handling.,Low,In Progress,Warehouse,David Parker
+SAFE-0792,Restricted Area Entry,Emergency alarm triggered in the production area.,Moderate,Open,Warehouse,Robert Allen
+SAFE-0793,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,High,In Progress,Factory Floor,Justin Best
+SAFE-0794,Mask Missing,Protective gloves were not used during equipment handling.,High,In Progress,Construction Site,Rachel Decker
+SAFE-0795,Worker Fall,Machine produced abnormal sounds during operation.,Low,In Progress,Warehouse,Nicole Watts
+SAFE-0796,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,Low,Open,Assembly Line,Kevin Odom
+SAFE-0797,Restricted Area Entry,Emergency alarm triggered in the production area.,High,Open,Factory Floor,Jessica Perez
+SAFE-0798,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,In Progress,Loading Dock,Jennifer Mitchell
+SAFE-0799,Gloves Not Worn,Emergency alarm triggered in the production area.,Moderate,In Progress,Construction Site,Clifford Simpson
+SAFE-0800,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,In Progress,Storage Area,Christopher Hall
+SAFE-0801,Emergency Alarm,Protective gloves were not used during equipment handling.,Moderate,Resolved,Assembly Line,Kevin Turner
+SAFE-0802,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Construction Site,Brandon Alexander
+SAFE-0803,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,High,In Progress,Assembly Line,Katherine David
+SAFE-0804,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Loading Dock,Alan Cooley
+SAFE-0805,Mask Missing,Worker slipped due to wet flooring near the warehouse.,High,Open,Construction Site,Mary Nelson
+SAFE-0806,Worker Fall,Machine produced abnormal sounds during operation.,High,Open,Warehouse,Carmen Oliver
+SAFE-0807,Worker Fall,Machine produced abnormal sounds during operation.,High,In Progress,Storage Area,Robert Morrow
+SAFE-0808,Emergency Alarm,Chemical spill reported near storage containers.,Low,Open,Warehouse,Amanda Howard
+SAFE-0809,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,High,Open,Storage Area,Tracy Gonzalez
+SAFE-0810,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Assembly Line,Allen Woods
+SAFE-0811,Emergency Alarm,Safety helmet violation identified in construction area.,Low,In Progress,Assembly Line,Miguel Johnson
+SAFE-0812,Helmet Missing,Machine produced abnormal sounds during operation.,High,In Progress,Construction Site,Justin Mcclure
+SAFE-0813,Emergency Alarm,Employee entered a restricted zone without authorization.,Low,Resolved,Warehouse,William Barron
+SAFE-0814,Worker Fall,Unsafe activity detected close to heavy machinery.,High,In Progress,Loading Dock,Michelle Simmons
+SAFE-0815,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,Low,Open,Storage Area,Jordan Dalton
+SAFE-0816,Chemical Spill,Chemical spill reported near storage containers.,Moderate,In Progress,Assembly Line,Laura Fuller
+SAFE-0817,Mask Missing,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Factory Floor,Lindsey Michael
+SAFE-0818,Electrical Hazard,Unsafe activity detected close to heavy machinery.,High,In Progress,Warehouse,Michael Flores
+SAFE-0819,Emergency Alarm,Unsafe activity detected close to heavy machinery.,Moderate,Resolved,Assembly Line,Steven Tapia
+SAFE-0820,Mask Missing,Chemical spill reported near storage containers.,Moderate,Open,Loading Dock,Judy Hall
+SAFE-0821,Mask Missing,Protective gloves were not used during equipment handling.,High,In Progress,Assembly Line,Melanie Carr
+SAFE-0822,Gloves Not Worn,Unsafe activity detected close to heavy machinery.,High,In Progress,Warehouse,Michaela Johnson
+SAFE-0823,Helmet Missing,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Factory Floor,Todd Martin
+SAFE-0824,Slippery Floor,Protective gloves were not used during equipment handling.,Low,Resolved,Warehouse,Katrina Lewis
+SAFE-0825,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,Low,In Progress,Assembly Line,Lisa Richardson MD
+SAFE-0826,Helmet Missing,Safety helmet violation identified in construction area.,High,Resolved,Storage Area,John Morris
+SAFE-0827,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,Open,Factory Floor,Michele Bentley
+SAFE-0828,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,High,Resolved,Assembly Line,Miss Laura Cook
+SAFE-0829,Mask Missing,Unsafe activity detected close to heavy machinery.,Low,Resolved,Storage Area,Monica Stewart
+SAFE-0830,Slippery Floor,Worker observed without proper PPE near the assembly section.,High,Open,Storage Area,Katie Blair
+SAFE-0831,Slippery Floor,Protective gloves were not used during equipment handling.,Moderate,Resolved,Loading Dock,Deborah Green
+SAFE-0832,Slippery Floor,Employee entered a restricted zone without authorization.,High,Resolved,Assembly Line,Rachel Browning
+SAFE-0833,Helmet Missing,Machine produced abnormal sounds during operation.,Low,Resolved,Construction Site,Jesus Evans
+SAFE-0834,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,High,Resolved,Storage Area,John Lopez
+SAFE-0835,Unsafe Machine Interaction,Unsafe activity detected close to heavy machinery.,High,In Progress,Construction Site,Christopher Evans
+SAFE-0836,Emergency Alarm,Machine produced abnormal sounds during operation.,Low,In Progress,Loading Dock,Shawn Forbes
+SAFE-0837,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,High,Resolved,Loading Dock,Brian Thomas
+SAFE-0838,Gloves Not Worn,Protective gloves were not used during equipment handling.,High,In Progress,Factory Floor,Laura Hart
+SAFE-0839,Emergency Alarm,Safety helmet violation identified in construction area.,High,Resolved,Loading Dock,Bryan Adams
+SAFE-0840,Gloves Not Worn,Emergency alarm triggered in the production area.,High,Open,Assembly Line,Christine Cabrera
+SAFE-0841,Chemical Spill,Emergency alarm triggered in the production area.,High,Open,Factory Floor,Cheryl Ramirez
+SAFE-0842,Slippery Floor,Protective gloves were not used during equipment handling.,Low,In Progress,Construction Site,Todd Chan
+SAFE-0843,Slippery Floor,Protective gloves were not used during equipment handling.,Moderate,In Progress,Factory Floor,Melanie Bowers
+SAFE-0844,Electrical Hazard,Worker reported difficulty breathing due to dust exposure.,Low,Open,Construction Site,Corey Bowman
+SAFE-0845,Chemical Spill,Employee entered a restricted zone without authorization.,High,In Progress,Construction Site,Lauren Salazar
+SAFE-0846,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Loading Dock,Patricia Jones
+SAFE-0847,Mask Missing,Chemical spill reported near storage containers.,Moderate,Resolved,Assembly Line,Joel Wilson
+SAFE-0848,Restricted Area Entry,Emergency alarm triggered in the production area.,Moderate,Open,Warehouse,Jerry Campbell
+SAFE-0849,Mask Missing,Protective gloves were not used during equipment handling.,Low,Resolved,Storage Area,Daniel Barber
+SAFE-0850,Mask Missing,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Loading Dock,Anna Fox
+SAFE-0851,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Warehouse,Aaron Gray
+SAFE-0852,Emergency Alarm,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Loading Dock,Dr. Kelly Adams
+SAFE-0853,Chemical Spill,Chemical spill reported near storage containers.,High,Open,Factory Floor,Tanya Carson
+SAFE-0854,Mask Missing,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Assembly Line,Corey Nichols
+SAFE-0855,Restricted Area Entry,Protective gloves were not used during equipment handling.,Low,Open,Assembly Line,Joshua Reid
+SAFE-0856,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Moderate,In Progress,Assembly Line,Brent Nguyen
+SAFE-0857,Restricted Area Entry,Employee entered a restricted zone without authorization.,Moderate,Open,Factory Floor,Brian Dunn
+SAFE-0858,Worker Fall,Machine produced abnormal sounds during operation.,Low,In Progress,Warehouse,Christian Williams
+SAFE-0859,Gloves Not Worn,Machine produced abnormal sounds during operation.,Moderate,In Progress,Warehouse,Thomas Adams
+SAFE-0860,Electrical Hazard,Chemical spill reported near storage containers.,Moderate,Resolved,Assembly Line,Nicole Ortega
+SAFE-0861,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,High,Resolved,Warehouse,Tammy Mann
+SAFE-0862,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Low,Open,Loading Dock,Jeffrey Taylor
+SAFE-0863,Unsafe Machine Interaction,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Storage Area,Paul Brooks
+SAFE-0864,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,Resolved,Construction Site,Tina Miller PhD
+SAFE-0865,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,Open,Factory Floor,Robert Hart
+SAFE-0866,Chemical Spill,Safety helmet violation identified in construction area.,Low,Resolved,Warehouse,Peter Bishop
+SAFE-0867,Restricted Area Entry,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Factory Floor,Jennifer Herrera
+SAFE-0868,Gloves Not Worn,Machine produced abnormal sounds during operation.,High,Resolved,Construction Site,Gerald Johnson
+SAFE-0869,Chemical Spill,Emergency alarm triggered in the production area.,Low,In Progress,Factory Floor,Cody Stewart
+SAFE-0870,Restricted Area Entry,Emergency alarm triggered in the production area.,High,Resolved,Warehouse,Sharon Adams
+SAFE-0871,Helmet Missing,Safety helmet violation identified in construction area.,Moderate,In Progress,Assembly Line,Katrina Ramirez
+SAFE-0872,Restricted Area Entry,Employee entered a restricted zone without authorization.,Low,In Progress,Loading Dock,William Garcia MD
+SAFE-0873,Unsafe Machine Interaction,Safety helmet violation identified in construction area.,Low,Resolved,Warehouse,Nicholas Miles
+SAFE-0874,Gloves Not Worn,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Storage Area,Carol Graham
+SAFE-0875,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,Open,Assembly Line,Kristen Rivas
+SAFE-0876,Electrical Hazard,Safety helmet violation identified in construction area.,Low,Open,Storage Area,Christian Gonzalez
+SAFE-0877,Restricted Area Entry,Worker observed without proper PPE near the assembly section.,Moderate,In Progress,Warehouse,Ms. Melinda Lane
+SAFE-0878,Mask Missing,Emergency alarm triggered in the production area.,Moderate,Open,Construction Site,Karen Santiago
+SAFE-0879,Restricted Area Entry,Machine produced abnormal sounds during operation.,Moderate,Resolved,Construction Site,John Walker
+SAFE-0880,Restricted Area Entry,Machine produced abnormal sounds during operation.,High,Resolved,Assembly Line,Amy Norman
+SAFE-0881,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Assembly Line,Todd Henderson
+SAFE-0882,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Low,Open,Assembly Line,Mary Flores
+SAFE-0883,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Warehouse,Eric Richardson
+SAFE-0884,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Construction Site,Rebecca Wiley
+SAFE-0885,Gloves Not Worn,Employee entered a restricted zone without authorization.,Low,In Progress,Loading Dock,Ryan Chang
+SAFE-0886,Mask Missing,Emergency alarm triggered in the production area.,High,Open,Warehouse,Samantha Reed
+SAFE-0887,Emergency Alarm,Employee entered a restricted zone without authorization.,High,Resolved,Loading Dock,Aaron Marquez
+SAFE-0888,Mask Missing,Employee entered a restricted zone without authorization.,Low,In Progress,Loading Dock,Michael Thompson
+SAFE-0889,Mask Missing,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Warehouse,Andrea Lin
+SAFE-0890,Gloves Not Worn,Protective gloves were not used during equipment handling.,High,In Progress,Construction Site,Sarah Chan
+SAFE-0891,Slippery Floor,Chemical spill reported near storage containers.,High,Open,Loading Dock,Morgan Dominguez
+SAFE-0892,Slippery Floor,Employee entered a restricted zone without authorization.,Low,In Progress,Storage Area,Roberto Hall
+SAFE-0893,Electrical Hazard,Worker observed without proper PPE near the assembly section.,Low,Open,Storage Area,Shawn Torres
+SAFE-0894,Mask Missing,Safety helmet violation identified in construction area.,Moderate,In Progress,Factory Floor,Dustin Wilson
+SAFE-0895,Restricted Area Entry,Unsafe activity detected close to heavy machinery.,Low,Open,Factory Floor,Kimberly Donovan
+SAFE-0896,Worker Fall,Worker slipped due to wet flooring near the warehouse.,Low,Resolved,Factory Floor,Kelly Moreno
+SAFE-0897,Chemical Spill,Emergency alarm triggered in the production area.,Low,In Progress,Loading Dock,Eric Melendez
+SAFE-0898,Electrical Hazard,Emergency alarm triggered in the production area.,Low,In Progress,Loading Dock,Nancy Johnson
+SAFE-0899,Emergency Alarm,Employee entered a restricted zone without authorization.,Low,In Progress,Warehouse,Debra Wood
+SAFE-0900,Helmet Missing,Unsafe activity detected close to heavy machinery.,High,In Progress,Loading Dock,Marcus Williams
+SAFE-0901,Worker Fall,Worker reported difficulty breathing due to dust exposure.,Moderate,Open,Warehouse,Kevin Mcgrath
+SAFE-0902,Slippery Floor,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Factory Floor,Brittany Ferguson
+SAFE-0903,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Moderate,In Progress,Loading Dock,Robert Reynolds
+SAFE-0904,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Storage Area,Jody Leblanc
+SAFE-0905,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,High,Open,Warehouse,Elizabeth Mitchell
+SAFE-0906,Mask Missing,Safety helmet violation identified in construction area.,Low,Resolved,Construction Site,Shelia Payne
+SAFE-0907,Mask Missing,Chemical spill reported near storage containers.,Moderate,In Progress,Loading Dock,Andrea Miller
+SAFE-0908,Electrical Hazard,Safety helmet violation identified in construction area.,Moderate,Open,Storage Area,Kathryn Smith
+SAFE-0909,Mask Missing,Protective gloves were not used during equipment handling.,Moderate,In Progress,Warehouse,Natalie Jackson
+SAFE-0910,Mask Missing,Safety helmet violation identified in construction area.,Low,Open,Warehouse,Diana Schultz
+SAFE-0911,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Assembly Line,John Vega
+SAFE-0912,Mask Missing,Worker observed without proper PPE near the assembly section.,Low,In Progress,Loading Dock,Maria Hall
+SAFE-0913,Emergency Alarm,Worker slipped due to wet flooring near the warehouse.,High,Open,Storage Area,Sandra Williams
+SAFE-0914,Mask Missing,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Storage Area,Rachael Nelson
+SAFE-0915,Unsafe Machine Interaction,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Factory Floor,Alexander Foster
+SAFE-0916,Slippery Floor,Unsafe activity detected close to heavy machinery.,High,Open,Loading Dock,Johnathan Hood
+SAFE-0917,Worker Fall,Emergency alarm triggered in the production area.,High,Resolved,Warehouse,Douglas Taylor
+SAFE-0918,Slippery Floor,Protective gloves were not used during equipment handling.,Low,In Progress,Construction Site,Nicole Villanueva
+SAFE-0919,Restricted Area Entry,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Assembly Line,Carolyn Brooks
+SAFE-0920,Restricted Area Entry,Safety helmet violation identified in construction area.,Moderate,Open,Loading Dock,Ronald Martin
+SAFE-0921,Worker Fall,Protective gloves were not used during equipment handling.,High,Open,Factory Floor,Chris Davis
+SAFE-0922,Helmet Missing,Safety helmet violation identified in construction area.,High,In Progress,Factory Floor,Danny Owen MD
+SAFE-0923,Electrical Hazard,Machine produced abnormal sounds during operation.,Low,In Progress,Warehouse,Roberto Hines
+SAFE-0924,Chemical Spill,Protective gloves were not used during equipment handling.,Low,In Progress,Factory Floor,Dylan Harris
+SAFE-0925,Slippery Floor,Chemical spill reported near storage containers.,High,Resolved,Warehouse,Cynthia Rose
+SAFE-0926,Gloves Not Worn,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Factory Floor,Anita Robinson
+SAFE-0927,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Low,In Progress,Factory Floor,Joseph Cole
+SAFE-0928,Slippery Floor,Safety helmet violation identified in construction area.,Moderate,In Progress,Loading Dock,Joe Robbins
+SAFE-0929,Helmet Missing,Machine produced abnormal sounds during operation.,Moderate,Open,Warehouse,Jennifer Gallegos
+SAFE-0930,Mask Missing,Employee entered a restricted zone without authorization.,Moderate,In Progress,Warehouse,Willie Harrington
+SAFE-0931,Worker Fall,Machine produced abnormal sounds during operation.,Low,In Progress,Storage Area,Patricia Davis
+SAFE-0932,Slippery Floor,Safety helmet violation identified in construction area.,High,In Progress,Assembly Line,Jordan Contreras
+SAFE-0933,Slippery Floor,Worker slipped due to wet flooring near the warehouse.,Low,In Progress,Loading Dock,Phillip Norton
+SAFE-0934,Helmet Missing,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Factory Floor,Vanessa Hughes
+SAFE-0935,Chemical Spill,Worker reported difficulty breathing due to dust exposure.,High,Open,Factory Floor,Dana Watkins
+SAFE-0936,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Low,Open,Warehouse,Charles Jackson
+SAFE-0937,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,Low,Open,Construction Site,Charles Guzman
+SAFE-0938,Electrical Hazard,Machine produced abnormal sounds during operation.,High,In Progress,Construction Site,Samantha Reed MD
+SAFE-0939,Worker Fall,Machine produced abnormal sounds during operation.,High,In Progress,Assembly Line,William Oliver
+SAFE-0940,Emergency Alarm,Chemical spill reported near storage containers.,Moderate,Open,Storage Area,Kimberly Munoz
+SAFE-0941,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,Moderate,In Progress,Construction Site,Angela Lee
+SAFE-0942,Unsafe Machine Interaction,Emergency alarm triggered in the production area.,Moderate,Resolved,Assembly Line,Jonathan Harris
+SAFE-0943,Mask Missing,Chemical spill reported near storage containers.,Low,Resolved,Assembly Line,Kenneth Cobb
+SAFE-0944,Slippery Floor,Employee entered a restricted zone without authorization.,Moderate,Resolved,Warehouse,Robert Rivera
+SAFE-0945,Helmet Missing,Safety helmet violation identified in construction area.,Low,Resolved,Loading Dock,Robert Taylor
+SAFE-0946,Gloves Not Worn,Protective gloves were not used during equipment handling.,Moderate,In Progress,Warehouse,Darin Choi
+SAFE-0947,Restricted Area Entry,Emergency alarm triggered in the production area.,Moderate,Resolved,Storage Area,Gary Miller
+SAFE-0948,Electrical Hazard,Worker observed without proper PPE near the assembly section.,High,In Progress,Storage Area,Jessica Fuentes
+SAFE-0949,Gloves Not Worn,Employee entered a restricted zone without authorization.,High,Resolved,Factory Floor,Jason Wang
+SAFE-0950,Gloves Not Worn,Worker reported difficulty breathing due to dust exposure.,High,In Progress,Construction Site,Gregory Lane
+SAFE-0951,Gloves Not Worn,Chemical spill reported near storage containers.,Moderate,Resolved,Warehouse,Kristen Hensley
+SAFE-0952,Unsafe Machine Interaction,Machine produced abnormal sounds during operation.,Low,Resolved,Construction Site,Lori Hernandez
+SAFE-0953,Gloves Not Worn,Chemical spill reported near storage containers.,Low,Resolved,Loading Dock,Douglas Miller
+SAFE-0954,Unsafe Machine Interaction,Worker observed without proper PPE near the assembly section.,Low,Resolved,Factory Floor,Brandon Mcknight
+SAFE-0955,Chemical Spill,Emergency alarm triggered in the production area.,Moderate,In Progress,Assembly Line,David Smith
+SAFE-0956,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,High,Open,Factory Floor,Paul Ochoa
+SAFE-0957,Electrical Hazard,Worker observed without proper PPE near the assembly section.,High,Resolved,Storage Area,Kristina Boyer
+SAFE-0958,Worker Fall,Worker observed without proper PPE near the assembly section.,Low,Resolved,Factory Floor,John Valentine
+SAFE-0959,Emergency Alarm,Unsafe activity detected close to heavy machinery.,Low,Open,Factory Floor,Margaret Smith
+SAFE-0960,Mask Missing,Worker observed without proper PPE near the assembly section.,Low,Open,Storage Area,Angela Williamson
+SAFE-0961,Electrical Hazard,Safety helmet violation identified in construction area.,Moderate,Resolved,Assembly Line,Angela Day
+SAFE-0962,Mask Missing,Worker reported difficulty breathing due to dust exposure.,Moderate,Resolved,Construction Site,Shannon Morris
+SAFE-0963,Mask Missing,Worker slipped due to wet flooring near the warehouse.,Moderate,Open,Construction Site,Lisa Walker
+SAFE-0964,Helmet Missing,Machine produced abnormal sounds during operation.,Low,Open,Construction Site,Harold White
+SAFE-0965,Unsafe Machine Interaction,Employee entered a restricted zone without authorization.,High,Resolved,Storage Area,Michael Ayers
+SAFE-0966,Worker Fall,Worker observed without proper PPE near the assembly section.,Moderate,Open,Assembly Line,William Webster
+SAFE-0967,Electrical Hazard,Unsafe activity detected close to heavy machinery.,Moderate,In Progress,Loading Dock,Karen Wyatt
+SAFE-0968,Electrical Hazard,Worker slipped due to wet flooring near the warehouse.,Moderate,In Progress,Construction Site,Edwin Cox
+SAFE-0969,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Moderate,In Progress,Assembly Line,Jamie Williams
+SAFE-0970,Slippery Floor,Worker observed without proper PPE near the assembly section.,High,Resolved,Warehouse,Crystal Mcdonald
+SAFE-0971,Slippery Floor,Chemical spill reported near storage containers.,Moderate,Resolved,Factory Floor,Greg Nelson
+SAFE-0972,Unsafe Machine Interaction,Chemical spill reported near storage containers.,Low,Open,Storage Area,Tricia Beck
+SAFE-0973,Gloves Not Worn,Machine produced abnormal sounds during operation.,Low,Open,Construction Site,Jodi Horton
+SAFE-0974,Electrical Hazard,Machine produced abnormal sounds during operation.,High,Open,Storage Area,Sarah Fox
+SAFE-0975,Gloves Not Worn,Chemical spill reported near storage containers.,High,In Progress,Loading Dock,Marissa Anderson
+SAFE-0976,Helmet Missing,Chemical spill reported near storage containers.,Moderate,Open,Construction Site,Shannon Lewis
+SAFE-0977,Mask Missing,Worker observed without proper PPE near the assembly section.,Moderate,Open,Assembly Line,Zachary Skinner
+SAFE-0978,Mask Missing,Unsafe activity detected close to heavy machinery.,Low,In Progress,Construction Site,Derek Bailey II
+SAFE-0979,Gloves Not Worn,Protective gloves were not used during equipment handling.,High,Open,Storage Area,Dennis Romero
+SAFE-0980,Slippery Floor,Worker observed without proper PPE near the assembly section.,Moderate,Resolved,Warehouse,Linda Stephens
+SAFE-0981,Slippery Floor,Machine produced abnormal sounds during operation.,High,Resolved,Loading Dock,Bradley Williams
+SAFE-0982,Chemical Spill,Emergency alarm triggered in the production area.,Low,Open,Assembly Line,Samuel Vance
+SAFE-0983,Mask Missing,Emergency alarm triggered in the production area.,High,In Progress,Construction Site,Daniel Moore
+SAFE-0984,Helmet Missing,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Factory Floor,Ronald Weaver
+SAFE-0985,Chemical Spill,Safety helmet violation identified in construction area.,Moderate,Open,Storage Area,Dr. Jodi Patterson DDS
+SAFE-0986,Mask Missing,Worker observed without proper PPE near the assembly section.,Low,In Progress,Assembly Line,Victoria Myers
+SAFE-0987,Helmet Missing,Unsafe activity detected close to heavy machinery.,Low,Open,Construction Site,Michele Martin
+SAFE-0988,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,High,In Progress,Storage Area,Jessica Johnson
+SAFE-0989,Chemical Spill,Emergency alarm triggered in the production area.,High,Open,Loading Dock,Ashley Baker
+SAFE-0990,Emergency Alarm,Employee entered a restricted zone without authorization.,High,In Progress,Assembly Line,Janice Wise
+SAFE-0991,Slippery Floor,Emergency alarm triggered in the production area.,High,Resolved,Construction Site,Katherine Franklin
+SAFE-0992,Slippery Floor,Protective gloves were not used during equipment handling.,Moderate,Resolved,Loading Dock,Mackenzie Ortiz
+SAFE-0993,Worker Fall,Emergency alarm triggered in the production area.,Low,In Progress,Construction Site,Derek Cook
+SAFE-0994,Worker Fall,Worker slipped due to wet flooring near the warehouse.,Moderate,Resolved,Factory Floor,David Pearson
+SAFE-0995,Mask Missing,Protective gloves were not used during equipment handling.,Low,Open,Storage Area,Lisa Schneider
+SAFE-0996,Helmet Missing,Emergency alarm triggered in the production area.,Moderate,Open,Assembly Line,Zachary Neal
+SAFE-0997,Mask Missing,Protective gloves were not used during equipment handling.,Moderate,Open,Warehouse,Kimberly Nguyen
+SAFE-0998,Slippery Floor,Worker observed without proper PPE near the assembly section.,High,In Progress,Construction Site,Matthew Parker
+SAFE-0999,Chemical Spill,Worker slipped due to wet flooring near the warehouse.,Low,Open,Assembly Line,Eduardo Alvarez
+SAFE-1000,Chemical Spill,Machine produced abnormal sounds during operation.,Moderate,In Progress,Factory Floor,Erika Spencer
